@@ -35,14 +35,23 @@ Las visualizaciones se diseñan metodológicamente para destacar aspectos releva
 
 ## Primera parte: obtención de los datos
 
-La principal fuente para la obtención de datos relacionados con la producción de alimentos en el campo es el Servicio de Información Agroalimentaria y Pesquera (SIAP), al que se puede acceder a través de este [enlace](https://www.gob.mx/siap).
-
 <p align="center">
   <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/5700c3a8-2af7-4959-9fe5-5c077a110d59" alt="Descripción de la imagen">
 </p>
 
 <p align="center">
   <em>Figura 1: Fuente de información de producción agroalimentaria SIAP.</em>
+</p>
+
+La principal fuente para la obtención de datos relacionados con la producción de alimentos en el campo es el Servicio de Información Agroalimentaria y Pesquera (SIAP). A esta plataforma se puede acceder por medio del siguiente [enlace](https://www.gob.mx/siap). Dentro de los datos de relevancia proporcionados por esta fuente se encuentran las hectareas de cultivo sembrada, cosechada y siniestrada, junto con su respectiva producción y rendimiento. Desde la perspectiva geográfica, la plataforma ofrece al usuario la posibilidad de solicitar estos datos para todos los municipios de cada estado. Por otro lado, la resolución temporal mínima permitida se basa en reportes con los avances mensuales de cada año. 
+
+<p align="center">
+  <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/997573d9-8af2-45d0-a214-8fefae6d94e7" alt="Descripción de la imagen">
+  <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/80ca30fb-1769-4cb8-b6a0-e5c381c4dbcc" alt="Descripción de la imagen">
+</p>
+
+<p align="center">
+  <em>Figura 2: Ejemplo de filtros y datos obtenidos directamente en la plataforma SIAP.</em>
 </p>
 
 
