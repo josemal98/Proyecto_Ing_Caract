@@ -3,9 +3,9 @@ Este proyecto es parte del curso "Ingeniería de Características" de la Maestr�
 
 ## Integrantes del equipo
 
-José Carlos Barreras Maldonado
-Luis Ernesto Ortíz Villalón
-Vesna Camile Pivac Alcaraz
+- José Carlos Barreras Maldonado
+- Luis Ernesto Ortíz Villalón
+- Vesna Camile Pivac Alcaraz
 
 ## Descripción del Proyecto
 
