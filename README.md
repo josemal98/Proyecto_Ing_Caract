@@ -7,7 +7,7 @@ Este proyecto es parte del curso "Ingeniería de Características" de la Maestr�
 - Luis Ernesto Ortíz Villalón
 - Vesna Camile Pivac Alcaraz
 
-## Descripción del Proyecto
+## Descripción del proyecto
 
 El proyecto se divide en tres partes fundamentales:
 
@@ -17,19 +17,23 @@ El objetivo de esta fase es la identificación y descarga de los datos necesario
 
 **2. Preparación de los datos**
 
-Esta etapa se enfoca en la transformación y acondicionamiento de los datos adquiridos para su posterior análisis. Los datos obtenidos en la etapa anterior pueden presentar inconsistencias, valores faltantes o formatos no adecuados. Para garantizar la fiabilidad y la utilidad de los datos, se realizan las siguientes acciones:
+Esta etapa se enfoca en la transformación y acondicionamiento de los datos adquiridos para su posterior análisis. Los datos obtenidos en la etapa anterior pueden presentar inconsistencias, formatos no adecuados, valores faltantes o valores atípicos. Para garantizar la fiabilidad y la utilidad de estos, se realizan las siguientes acciones:
 
 * *Limpieza de datos:* Se identifican y corrigen inconsistencias en los valores, eliminando datos duplicados o erróneos.
   
 * *Estandarización de formatos:* Se asegura que los datos sigan un formato coherente y que los tipos de datos sean apropiados para su análisis.
   
-* *Manejo de valores faltantes:* Se abordan los valores faltantes de manera adecuada, ya sea rellenándolos con valores estimados o eliminando registros incompletos, dependiendo del impacto en el análisis.
+* *Manejo de valores faltantes:* Se abordan los valores faltantes de manera adecuada, ya sea rellenándolos con estimadores o eliminando registros incompletos, dependiendo del impacto en el análisis.
 
-* *Manejo de valores atípicos:* Se abordan los valores faltantes de manera adecuada, ya sea rellenándolos con valores estimados o eliminando registros incompletos, dependiendo del impacto en el análisis.
+* *Manejo de valores atípicos:* Se aplican técnicas estadísticas para identificar y se decidir cómo tratarlos, ya sea corrigiéndolos, transformándolos o manteniéndolos según su relevancia para la historia que se narra con los datos.
   
 **3. Visualización de los datos**
 
+En esta parte del proyecto se da vida a los datos a través de gráficos y representaciones visuales. La información recopilada se presenta de manera efectiva en un *dashboard* interactivo que facilita la identificación de patrones, tendencias y áreas de interés. Estas visualizaciones ayudan a contar la historia que se encuentra en los datos, proporcionando una visión clara y accesible para la red BAMX.
 
+Las visualizaciones se diseñan metodológicamente para destacar aspectos relevantes de la producción y el mercado de alimentos a nivel nacional. Este proceso permite identificar oportunidades significativas que podrían beneficiar a la red BAMX en la optimización de sus procedimientos de recolección y redistribución de alimentos.
+
+## Primera parte: obtención de los datos
 
 La principal fuente para la obtención de datos relacionados con la producción de alimentos en el campo es el Servicio de Información Agroalimentaria y Pesquera (SIAP), al que se puede acceder a través de este [enlace](https://www.gob.mx/siap).
 
@@ -40,4 +44,5 @@ La principal fuente para la obtención de datos relacionados con la producción 
 <p align="center">
   <em>Figura 1: Fuente de información de producción agroalimentaria SIAP.</em>
 </p>
+
 
