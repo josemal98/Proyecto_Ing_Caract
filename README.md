@@ -11,13 +11,13 @@ Este proyecto es parte del curso "Ingeniería de Características" de la Maestr�
 
 El proyecto se divide en tres partes fundamentales:
 
-### 1. Obtención de los Datos
+**1. Obtención de los datos**
 
 El objetivo de esta fase es la identificación y descarga de los datos necesarios de fuentes públicas y confiables. Esto se lleva a cabo de manera programática, para que cualquier persona pueda replicar la descarga simplificadamente por medio de líneas de código. El resultado final son los datos sin ningún tipo de procesamiento, pero organizados de manera *tidy*. Esto se refiere a que los datos cumplen con las condiciones de que cada columna sea una variable y cada fila una observación.
 
-### 2. Preparación de Datos
+**2. Preparación de los datos**
 
-### 3. Visualización de Datos
+**3. Visualización de los datos**
 
 
 
