@@ -2,11 +2,11 @@
 Este proyecto es parte del curso "Ingeniería de Características" de la Maestría en Ciencia de Datos de la Universidad de Sonora. Su motivación principal es contribuir a la Red de Bancos de Alimentos de México (red BAMX) mediante el análisis de datos públicos relacionados con la producción y el mercado de alimentos a nivel nacional. El objetivo final es "contar una historia con los datos" que permita a la red BAMX identificar ventanas de oportunidad para optimizar sus procedimientos en la colecta y redistribución de alimentos.
 
 <p align="center">
-  <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/8ba0f5ef-dbdc-46b7-9885-734aa5250be1" alt="Descripción de la imagen">
+  <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/8ba0f5ef-dbdc-46b7-9885-734aa5250be1" alt="Descripción de la imagen" width="40%" height="40%">
 </p>
 
 <p align="center">
-  <em>Figura 1: Red del Banco de Alimentos de México.</em>
+  <em>Figura 1: Logo de la red del Banco de Alimentos de México.</em>
 </p>
 
 ## Integrantes del equipo
@@ -41,25 +41,47 @@ En esta parte del proyecto se da vida a los datos a través de gráficos y repre
 
 Las visualizaciones se diseñan metodológicamente para destacar aspectos relevantes de la producción y el mercado de alimentos a nivel nacional. Este proceso permite identificar oportunidades significativas que podrían beneficiar a la red BAMX en la optimización de sus procedimientos de recolección y redistribución de alimentos.
 
-## Primera parte: obtención de los datos
+```mermaid
+graph TD;
+
+subgraph 3. Visualización de los datos
+  H[Creación de gráficos y visualizaciones] --> I[Dashboard interactivo]
+end
+
+subgraph 2. Preparación de los datos
+  D[Limpieza de datos] --> E[Estandarización de formatos]
+  E --> F[Manejo de valores faltantes]
+  F --> G[Manejo de valores atípicos]
+end
+
+subgraph 1. Obtención de los datos
+  A[Identificación de fuentes públicas y confiables] --> B[Descarga programática de datos]
+  B --> C[Organización tidy de datos]
+end
+
+```
 
 <p align="center">
-  <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/5700c3a8-2af7-4959-9fe5-5c077a110d59" alt="Descripción de la imagen">
+  <em>Figura 2: Descripción de las 3 etapas que conforman el proyecto.</em>
+</p>
+
+## 1. Obtención de los datos
+
+<p align="center">
+  <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/5700c3a8-2af7-4959-9fe5-5c077a110d59" alt="Descripción de la imagen" width="50%" height="50%">
 </p>
 
 <p align="center">
-  <em>Figura 2: Fuente de información de producción agroalimentaria SIAP.</em>
+  <em>Figura 4: Fuente de información de producción agroalimentaria SIAP.</em>
 </p>
 
 La principal fuente para la obtención de datos relacionados con la producción de alimentos en el campo es el Servicio de Información Agroalimentaria y Pesquera (SIAP). A esta plataforma se puede acceder por medio del siguiente [enlace](https://www.gob.mx/siap). Dentro de los datos de relevancia proporcionados por esta fuente se encuentran las hectareas de cultivo sembrada, cosechada y siniestrada, junto con su respectiva producción y rendimiento. Desde la perspectiva geográfica, la plataforma ofrece al usuario la posibilidad de solicitar estos datos para todos los municipios de cada estado. Por otro lado, la resolución temporal mínima permitida se basa en reportes con los avances mensuales de cada año. 
 
 <p align="center">
-  <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/997573d9-8af2-45d0-a214-8fefae6d94e7" alt="Descripción de la imagen">
-  <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/80ca30fb-1769-4cb8-b6a0-e5c381c4dbcc" alt="Descripción de la imagen">
+  <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/997573d9-8af2-45d0-a214-8fefae6d94e7" alt="Descripción de la imagen" width="60%" height="60%">
+  <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/80ca30fb-1769-4cb8-b6a0-e5c381c4dbcc" alt="Descripción de la imagen" width="60%" height="60%">
 </p>
 
 <p align="center">
-  <em>Figura 3: Ejemplo de filtros y datos obtenidos directamente en la plataforma SIAP.</em>
+  <em>Figura 4: Ejemplo de filtros y datos obtenidos directamente en la plataforma SIAP.</em>
 </p>
-
-
