@@ -67,6 +67,8 @@ end
 
 ## 1. Obtención de los datos
 
+### SIAP
+
 <p align="center">
   <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/5700c3a8-2af7-4959-9fe5-5c077a110d59" alt="Descripción de la imagen" width="50%" height="50%">
 </p>
@@ -85,3 +87,7 @@ La principal fuente para la obtención de datos relacionados con la producción 
 <p align="center">
   <em>Figura 4: Ejemplo de filtros y datos obtenidos directamente en la plataforma SIAP.</em>
 </p>
+
+Para la obtención programática de los datos, es necesario realizar un *request* al *endpoint* ["https://nube.siap.gob.mx/avance_agricola/"](https://nube.siap.gob.mx/avance_agricola/). Como resultado, obtenemos el string de un XML que contiene una tabla equivalente a la mostrada en la figura, pero cuyo contenido depende los ID's provistos para los filtros en el *request*. Cabe mencionar que estos ID's no se encuentran a la mano en la plataforma, y por ende fue necesario manipular directamente los filtros para su obtención. Una vez adquiridos, los almacenamos en un JSON, el cual fue añadido al presente repositorio. Para la extracción de los datos de estos XML es necesario aplicar un *parsing* empleando BeautifulSoup, de modo que se facilite la identificación y extracción del contenido de cada una de las celdas. 
+
+
