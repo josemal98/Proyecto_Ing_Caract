@@ -90,4 +90,6 @@ La principal fuente para la obtención de datos relacionados con la producción 
 
 Para la obtención programática de los datos, es necesario realizar un *request* al *endpoint* ["https://nube.siap.gob.mx/avance_agricola/"](https://nube.siap.gob.mx/avance_agricola/). Como resultado, obtenemos el string de un XML que contiene una tabla equivalente a la mostrada en la figura, pero cuyo contenido depende los ID's provistos para los filtros en el *request*. Cabe mencionar que estos ID's no se encuentran a la mano en la plataforma, y por ende fue necesario manipular directamente los filtros para su obtención. Una vez adquiridos, los almacenamos en un JSON, el cual fue añadido al presente repositorio. Para la extracción de los datos de estos XML es necesario aplicar un *parsing* empleando BeautifulSoup, de modo que se facilite la identificación y extracción del contenido de cada una de las celdas. 
 
+Debido a que nuestro interés reside en adquirir los datos mensuales de cada cultivo desde el 2020 hasta el presente año, el siguiente paso fue repetir este proceso iterando de manera anidada sobre los ID's de los años, meses y cultivos de nuestro interés. En cada iteración, el contenido de la tabla referente a un cultivo en un mes de un año particular, fue almacenado en un archivo CSV local cuyo nombre sigue el formato: "cultivo_mes_año.csv". 
+
 
