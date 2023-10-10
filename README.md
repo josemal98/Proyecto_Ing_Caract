@@ -95,35 +95,36 @@ Dado que el interés principal es obtener datos mensuales de cada cultivo desde 
 Como nota, es necesario mencionar que no se iteró sobre las categorías de los filtros de Riego y Modalidad. En su lugar, en ambos casos se empleó la categoría que abarca a todas las otras.  
 
 
-## Dataframe tidy
+### Dataframe tidy
 
-A continuación se muestra una descripción del DataFrame que estamos utilizando en este proyecto el cual se guardo en formato parquet.
+A continuación se muestra una descripción del DataFrame *tidy* que resultó de la descarga y organización de los datos, el cual fue almacenado en formato parquet.
 
-### Información general
+#### Información general
 
 - **Nombre del DataFrame:** tidy.parquet
 - **Número de filas:** 992213
 - **Número de columnas:** 10
 
-### Columnas
+#### Columnas
 
-A continuación, se muestra una lista de las columnas en el DataFrame tidy, junto con una breve descripción de cada una:
+A continuación, se muestra una lista de las columnas en el DataFrame *tidy*, junto con una breve descripción de cada una:
 
-| **Columna** | **Descripción** |
-|---------|-------------|
-| Entidad              | Entidad a la que pertenece el dato |
-| Municipio            | Nombre del municipio al que pertenece el dato        |
-| Superficie Sembrada  | Superficie destinada a la siembra                     |
-| Superficie Cosechada | Superficie cosechada                                  |
-| Superficie Siniestrada| Superficie siniestrada                                |
-| Produccion           | Cantidad de producción                                |
-| Rendimiento          | Rendimiento del cultivo                               |
-| Anio                 | Año en el que se registraron los datos                |
-| Mes                  | Mes en el que se registraron los datos                |
-| Cultivo              | Tipo de cultivo   
+| **Columna**          | **Descripción**                                    | **Unidad** |
+|----------------------|----------------------------------------------------|------------|
+| Entidad              | Entidad a la que pertenece el dato                 |            |
+| Municipio            | Nombre del municipio al que pertenece el dato     |            |
+| Superficie Sembrada  | Superficie destinada a la siembra (hectareas)      | Hectarea  |
+| Superficie Cosechada | Superficie cosechada                 | Hectarea |
+| Superficie Siniestrada| Superficie siniestrada                 | Hectarea |
+| Produccion           | Cantidad de producción         | Unidad de medida |
+| Rendimiento          | Rendimiento del cultivo | Unidad de medida / hectarea |
+| Anio                 | Año en el que se registraron los datos            |            |
+| Mes                  | Mes en el que se registraron los datos            |            |
+| Cultivo              | Tipo de cultivo                                    |            |
 
 
-Aquí hay una muestra de las primeras filas del DataFrame para que puedas tener una idea de cómo se ven los datos:
+
+Aquí hay una muestra de las primeras filas del DataFrame para que se tenga una idea de cómo se ven los datos:
 
 | **Entidad**             | **Municipio**          | **Superficie Sembrada** | **Superficie Cosechada** | **Superficie Siniestrada** | **Produccion** | **Rendimiento** | **Anio** | **Mes**   | **Cultivo** |
 |---------------------|--------------------|:----------------------:|:-----------------------:|:-------------------------:|:------------:|:-------------:|------|-------|---------|
