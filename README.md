@@ -109,7 +109,7 @@ A continuación se muestra una descripción del DataFrame que estamos utilizando
 
 A continuación, se muestra una lista de las columnas en el DataFrame tidy, junto con una breve descripción de cada una:
 
-| Columna | Descripción |
+| **Columna** | **Descripción** |
 |---------|-------------|
 | Entidad              | Entidad a la que pertenece el dato |
 | Municipio            | Nombre del municipio al que pertenece el dato        |
@@ -125,7 +125,7 @@ A continuación, se muestra una lista de las columnas en el DataFrame tidy, junt
 
 Aquí hay una muestra de las primeras filas del DataFrame para que puedas tener una idea de cómo se ven los datos:
 
-| Entidad             | Municipio          | Superficie Sembrada | Superficie Cosechada | Superficie Siniestrada | Produccion | Rendimiento | Anio | Mes   | Cultivo |
+| **Entidad**             | **Municipio**          | **Superficie Sembrada** | **Superficie Cosechada** | **Superficie Siniestrada** | **Produccion** | **Rendimiento** | **Anio** | **Mes**   | **Cultivo** |
 |---------------------|--------------------|:----------------------:|:-----------------------:|:-------------------------:|:------------:|:-------------:|------|-------|---------|
 | Aguascalientes      | Aguascalientes     | 8.00                 | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
 | Baja California Sur | La Paz             | 3.00                 | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
