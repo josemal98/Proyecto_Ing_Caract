@@ -15,6 +15,8 @@ Este proyecto es parte del curso "Ingeniería de Características" de la Maestr�
 - Luis Ernesto Ortíz Villalón
 - Vesna Camile Pivac Alcaraz
 
+[[_TOC_]]
+
 ## Descripción del proyecto
 
 El proyecto se divide en tres partes fundamentales:
