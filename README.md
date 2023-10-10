@@ -95,5 +95,47 @@ Dado que el interés principal es obtener datos mensuales de cada cultivo desde 
 Como nota, es necesario mencionar que no se iteró sobre las categorías de los filtros de Riego y Modalidad. En su lugar, en ambos casos se empleó la categoría que abarca a todas las otras.  
 
 
+## Dataframe tidy
+
+A continuación se muestra una descripción del DataFrame que estamos utilizando en este proyecto el cual se guardo en formato parquet.
+
+### Información general
+
+- **Nombre del DataFrame:** tidy.parquet
+- **Número de filas:** 992213
+- **Número de columnas:** 
+
+### Columnas
+
+A continuación, se muestra una lista de las columnas en el DataFrame tidy, junto con una breve descripción de cada una:
+
+| Columna | Descripción |
+|---------|-------------|
+| Entidad              | Entidad a la que pertenece el dato |
+| Municipio            | Nombre del municipio al que pertenece el dato        |
+| Superficie Sembrada  | Superficie destinada a la siembra                     |
+| Superficie Cosechada | Superficie cosechada                                  |
+| Superficie Siniestrada| Superficie siniestrada                                |
+| Produccion           | Cantidad de producción                                |
+| Rendimiento          | Rendimiento del cultivo                               |
+| Anio                 | Año en el que se registraron los datos                |
+| Mes                  | Mes en el que se registraron los datos                |
+| Cultivo              | Tipo de cultivo   
+
+
+Aquí hay una muestra de las primeras filas del DataFrame para que puedas tener una idea de cómo se ven los datos:
+
+| Entidad             | Municipio          | Superficie Sembrada | Superficie Cosechada | Superficie Siniestrada | Produccion | Rendimiento | Anio | Mes   | Cultivo |
+|---------------------|--------------------|----------------------|-----------------------|-------------------------|------------|-------------|------|-------|---------|
+| Aguascalientes      | Aguascalientes     | 8.00                 | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
+| Baja California Sur | La Paz             | 3.00                 | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
+| Colima              | Manzanillo         | 86.29                | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
+| Durango             | Durango            | 13.00                | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
+| Durango             | Mezquital          | 110.00               | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
+
+
+
+
+
 
 
