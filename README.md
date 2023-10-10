@@ -103,7 +103,7 @@ A continuación se muestra una descripción del DataFrame que estamos utilizando
 
 - **Nombre del DataFrame:** tidy.parquet
 - **Número de filas:** 992213
-- **Número de columnas:** 
+- **Número de columnas:** 10
 
 ### Columnas
 
@@ -126,7 +126,7 @@ A continuación, se muestra una lista de las columnas en el DataFrame tidy, junt
 Aquí hay una muestra de las primeras filas del DataFrame para que puedas tener una idea de cómo se ven los datos:
 
 | Entidad             | Municipio          | Superficie Sembrada | Superficie Cosechada | Superficie Siniestrada | Produccion | Rendimiento | Anio | Mes   | Cultivo |
-|---------------------|--------------------|----------------------|-----------------------|-------------------------|------------|-------------|------|-------|---------|
+|---------------------|--------------------|:----------------------:|:-----------------------:|:-------------------------:|:------------:|:-------------:|------|-------|---------|
 | Aguascalientes      | Aguascalientes     | 8.00                 | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
 | Baja California Sur | La Paz             | 3.00                 | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
 | Colima              | Manzanillo         | 86.29                | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
