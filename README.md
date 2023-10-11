@@ -97,11 +97,11 @@ Como nota, es necesario mencionar que no se iteró sobre las categorías de los 
 
 #### Dataframe tidy
 
-A continuación se muestra una descripción del DataFrame *tidy* que resultó de la descarga y organización de los datos, el cual fue almacenado en formato parquet.
+A continuación se muestra una descripción del DataFrame *SIAP* que resultó de la descarga y organización de los datos, el cual fue almacenado en formato parquet.
 
 ##### Información general
 
-- **Nombre del DataFrame:** tidy.parquet
+- **Nombre del DataFrame:** SIAP.parquet
 - **Número de filas:** 992213
 - **Número de columnas:** 10
 
@@ -124,15 +124,16 @@ A continuación, se muestra una lista de las columnas en el DataFrame *tidy*, ju
 
 
 
-Aquí hay una muestra de las primeras filas del DataFrame para que se tenga una idea de cómo se ven los datos:
+Aquí hay una muestra de cinco filas seleccionadas aleatoriamente del DataFrame para que se tenga una idea de cómo se ven los datos:
 
-| **Entidad**             | **Municipio**          | **Superficie Sembrada** | **Superficie Cosechada** | **Superficie Siniestrada** | **Produccion** | **Rendimiento** | **Anio** | **Mes**   | **Cultivo** |
-|---------------------|--------------------|:----------------------:|:-----------------------:|:-------------------------:|:------------:|:-------------:|------|-------|---------|
-| Aguascalientes      | Aguascalientes     | 8.00                 | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
-| Baja California Sur | La Paz             | 3.00                 | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
-| Colima              | Manzanillo         | 86.29                | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
-| Durango             | Durango            | 13.00                | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
-| Durango             | Mezquital          | 110.00               | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
+| Entidad | Municipio       | Superficie Sembrada | Superficie Cosechada | Superficie Siniestrada | Produccion | Rendimiento | Anio | Mes       | Cultivo                |
+|---------|-----------------|----------------------|------------------------|-------------------------|------------|------------|------|-----------|------------------------|
+| 949223  | Zacatecas       | Pinos                | 10.50                | 8.00                   | 2.5        | 169.60     | 21.20| 2018      | Septiembre            | Cebolla                |
+| 512503  | Yucatán         | Temozón              | 1.50                 | 1.50                   | 0.0        | 28.00      | 18.67| 2020      | Marzo                | Chile verde            |
+| 659064  | Veracruz        | Tlalixcoyan          | 416.00               | 200.00                 | 0.0        | 1,300.00   | 6.50 | 2019      | Enero                 | Limón                  |
+| 672054  | Puebla          | Atzitzihuacán        | 20.00                | 10.00                  | 0.0        | 41.00      | 4.10 | 2019      | Febrero               | Maíz grano            |
+| 130789  | Coahuila        | Lamadrid             | 55.00                | 0.00                   | 0.0        | 0.00       | 0    | 2022      | Enero                | Avena forrajera en verde|
+
 
 ### SNIIM
 
@@ -165,4 +166,36 @@ Cada producto de interés se trata como una instancia de esta clase, lo que perm
 Por último, la transformación de estos datos a un formato *tidy* implicó cargar y concatenar todos los archivos CSV. Tal como con los datos del SIAP, este nuevo DataFrame *tidy* se guardó en formato parquet, y se añadió al presente repositorio. 
 
 #### DataFrame tidy
+
+A continuación se muestra una descripción del DataFrame *SNIIM* que resultó de la descarga y organización de los datos, el cual fue almacenado en formato parquet.
+
+##### Información general
+
+- **Nombre del DataFrame:** SNIIM.parquet
+- **Número de columnas:** 9
+
+##### Columnas
+
+A continuación, se muestra una lista de las columnas en el DataFrame *tidy*, junto con una breve descripción de cada una:
+| **Columna**    | **Descripción**                                  |
+|--------------  |--------------------------------------------------|
+| Fecha         | Fecha de los registros de precios                |
+| Presentacion  | Tipo de presentación del producto                |
+| Origen        | Origen del producto                              |
+| Destino       | Destino del producto                             |
+| Precio_min    | Precio mínimo del producto                       |
+| Precio_max    | Precio máximo del producto                       |
+| precio_frec   | Precio frecuente del producto                    |
+| Observacion   | Observación sobre los registros                  |
+| Cultivo       | Nombre del cultivo                               |
+
+Aquí hay una muestra de cinco filas seleccionadas aleatoriamente del DataFrame para que se tenga una idea de cómo se ven los datos:
+
+|   Fecha   | Presentacion          | Origen                    | Destino                                              | Precio_min | Precio_max | precio_frec | Observacion      | Cultivo            |
+|----------  |----------------------- |--------------------------  |----------------------------------------------------- |------------|------------|------------ |----------------- |------------------- |
+|   123232  | 11/11/2020             | Manojo                    | Baja California                                  | Baja California Sur: Unión de Comerciantes de ...  | 3.0       | 7.00       | 7.00          | nan             | cilantro_primera   |
+|   92619   | 19/11/2019             | Rollo de 20 pzas.          | Jalisco                                          | Nuevo León: Mercado de Abasto "Estrella" de Sa... | 6.5       | 7.50       | 6.50          | nan             | caña_primera       |
+|   136301  | 11/05/2018             | Caja de 10 kg.             | Importación                                      | Durango: Central de Abasto "Francisco Villa"   | 62.0      | 62.00      | 62.00          | Origen U.S.A.    | ciruela pasa_primera |
+|   124224  | 24/05/2021             | Manojo                    | Baja California                                  | Baja California Sur: Unión de Comerciantes de ...  | 3.0       | 7.00       | 5.00          | nan             | cilantro_primera   |
+|   15799   | 09/11/2018             | Caja de 20 kg.             | Aguascalientes                                  | Nayarit: Mercado de abasto 'Adolfo López Mateo...  | 32.0      | 33.25      | 32.25          | nan             | aguacate pagua_primera |
 
