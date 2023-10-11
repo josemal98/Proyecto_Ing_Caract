@@ -158,7 +158,14 @@ Para la obtención de datos de mercado de los distinto producto agrícolas a lo 
   <em>Figura 6: Ejemplo de filtros y datos obtenidos directamente en la plataforma SNIIM</em>
 </p>
 
+La obtención de datos del  SNIIM se realiza mediante una clase especializada en *web scraping* que automatiza el proceso. Esta clase gestiona las bibliotecas necesarias, como requests y BeautifulSoup, para realizar solicitudes web y analizar los resultados de estas solicitudes. En este caso, cada solicitud arroja un HTML que contiene una tabla equivalente a la mostrada en la figura para un cultivo particular. 
 
+
+Cada producto de interés se trata como una instancia de esta clase, lo que permite una gestión controlada del proceso. Se busca obtener un registro histórico para cada cultivo desde 2018 hasta la fecha actual, lo que se configura dentro de la clase.
+
+La descarga de datos históricos se efectúa desde la URL principal del SNIIM, "http://www.economia-sniim.gob.mx/NUEVO/Consultas/MercadosNacionales/PreciosDeMercado/Agricolas". Se realizan solicitudes web a la página de resultados del SNIIM con los parámetros de tiempo definidos. Cada conjunto de datos se analiza y almacena en un archivo CSV individual. Estos archivos siguen un formato que incluye el nombre del cultivo y su variedad para identificación.
+
+El proceso de descarga continúa iterando a través de los productos de interés, obteniendo datos históricos desde la URL principal y ajustando los parámetros según sea necesario. La estructura orientada a objetos facilita la gestión y organización de los datos.
 
 
 
