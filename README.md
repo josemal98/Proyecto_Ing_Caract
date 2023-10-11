@@ -191,8 +191,8 @@ A continuación, se muestra una lista de las columnas en el DataFrame *tidy*, ju
 
 Aquí hay una muestra de cinco filas seleccionadas aleatoriamente del DataFrame para que se tenga una idea de cómo se ven los datos:
 
-|   Fecha   | Presentacion          | Origen                    | Destino                                              | Precio_min | Precio_max | precio_frec | Observacion      | Cultivo            |
-|----------  |----------------------- |--------------------------  |----------------------------------------------------- |------------|------------|------------ |----------------- |------------------- |
+| |  Fecha   | Presentacion          | Origen                    | Destino                                              | Precio_min | Precio_max | precio_frec | Observacion      | Cultivo            |
+|----------|-----------------------|-------------------------- |----------------------------------------------------- |:------------:|:------------:|:------------:|----------------- |------------------- |
 |   123232  | 11/11/2020             | Manojo                    | Baja California                                  | Baja California Sur: Unión de Comerciantes de ...  | 3.0       | 7.00       | 7.00          | nan             | cilantro_primera   |
 |   92619   | 19/11/2019             | Rollo de 20 pzas.          | Jalisco                                          | Nuevo León: Mercado de Abasto "Estrella" de Sa... | 6.5       | 7.50       | 6.50          | nan             | caña_primera       |
 |   136301  | 11/05/2018             | Caja de 10 kg.             | Importación                                      | Durango: Central de Abasto "Francisco Villa"   | 62.0      | 62.00      | 62.00          | Origen U.S.A.    | ciruela pasa_primera |
