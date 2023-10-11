@@ -134,9 +134,17 @@ Aquí hay una muestra de las primeras filas del DataFrame para que se tenga una 
 | Durango             | Durango            | 13.00                | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
 | Durango             | Mezquital          | 110.00               | 0.00                  | 0.0                     | 0.00       | 0           | 2023 | Enero | Agave   |
 
+### SNIIM
 
+<p align="center">
+  <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/b75332c5-bf56-4094-a018-8dd07a9201fd" alt="Descripción de la imagen" width="40%" height="40%">
+</p>
 
+<p align="center">
+  <em>Figura 5: Fuente de información de mercado SNIIM</em>
+</p>
 
+Para la obtención de datos de mercado de los distinto producto agrícolas a lo largo del territorio nacional recurrimos al Sistema Nacional de Información e Integración de Mercados o SNIIM. El SNIIM es un servicio proporcionado por la Secretaría de Economía que se enfoca en brindar información sobre el comportamiento de los precios al por mayor de productos agrícolas, pecuarios y pesqueros en los mercados nacionales e internacionales.  
 
 
 
