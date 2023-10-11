@@ -146,5 +146,21 @@ Aquí hay una muestra de las primeras filas del DataFrame para que se tenga una 
 
 Para la obtención de datos de mercado de los distinto producto agrícolas a lo largo del territorio nacional recurrimos al Sistema Nacional de Información e Integración de Mercados o SNIIM. El SNIIM es un servicio proporcionado por la Secretaría de Economía que se enfoca en brindar información sobre el comportamiento de los precios al por mayor de productos agrícolas, pecuarios y pesqueros en los mercados nacionales e internacionales.  
 
+<p align="center">
+  <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/7195da21-4b0c-4f63-9fce-a643efacd8d8" alt="Descripción de la imagen" width="70%" height="70%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/cb618216-c380-4480-ab30-047d552fe268" alt="Descripción de la imagen" width="70%" height="70%">
+</p>
+
+<p align="center">
+  <em>Figura 6: Ejemplo de filtros y datos obtenidos directamente en la plataforma SNIIM</em>
+</p>
+
+
+
+
+
 
 
