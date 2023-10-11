@@ -144,7 +144,7 @@ Aquí hay una muestra de las primeras filas del DataFrame para que se tenga una 
   <em>Figura 5: Fuente de información de mercado SNIIM</em>
 </p>
 
-Para la obtención de datos de mercado de los distinto producto agrícolas a lo largo del territorio nacional recurrimos al Sistema Nacional de Información e Integración de Mercados o SNIIM. El SNIIM es un servicio proporcionado por la Secretaría de Economía que se enfoca en brindar información sobre el comportamiento de los precios al por mayor de productos agrícolas, pecuarios y pesqueros en los mercados nacionales e internacionales.  
+Para la obtención de datos de mercado de los distinto producto agrícolas a lo largo del territorio nacional recurrimos al Sistema Nacional de Información e Integración de Mercados o SNIIM. El SNIIM es un servicio proporcionado por la Secretaría de Economía que se enfoca en brindar información sobre el comportamiento de los precios al por mayor de productos agrícolas, pecuarios y pesqueros en los mercados nacionales e internacionales. Se puede acceder a esta plataforma por medio del siguiente [enlace](http://www.economia-sniim.gob.mx/nuevo/Home.aspx). 
 
 <p align="center">
   <img src="https://github.com/josemal98/Proyecto_Ing_Caract/assets/90294947/7195da21-4b0c-4f63-9fce-a643efacd8d8" alt="Descripción de la imagen" width="70%" height="70%">
@@ -163,8 +163,4 @@ La obtención de datos del  SNIIM se realiza mediante una clase "ScrapperMarketA
 Cada producto de interés se trata como una instancia de esta clase, lo que permite una gestión controlada del proceso. En cada una de estas instancias se realiza un *parsing* con BeautifulSoup, a partir del cual se puede extraer el contenido de cada una de las celdas de la tabla. Este contenido se almacena en un DataFrame temporal. A su vez, este DataFrame se guarda en un archivo CSV cuyo nombre sigue el formato: "sniim_product_cultivo_calidad.csv". Estos archivos fueron añadidos la carpeta "raw" del presente repositorio. 
 
 Por último, la transformación de estos datos a un formato *tidy* implicó cargar y concatenar todos los archivos CSV. Tal como con los datos del SIAP, este nuevo DataFrame *tidy* se guardó en formato parquet, y se añadió al presente repositorio. 
-
-
-
-
 
