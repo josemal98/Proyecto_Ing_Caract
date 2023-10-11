@@ -184,7 +184,7 @@ A continuación, se muestra una lista de las columnas en el DataFrame *tidy*, ju
 | Destino       | Destino del producto                             |
 | Precio_min    | Precio mínimo del producto                       |
 | Precio_max    | Precio máximo del producto                       |
-| precio_frec   | Precio frecuente del producto                    |
+| Precio_frec   | Precio frecuente del producto                    |
 | Observacion   | Observación sobre los registros                  |
 | Cultivo       | Nombre del cultivo                               |
 
