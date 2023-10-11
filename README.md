@@ -126,14 +126,13 @@ A continuación, se muestra una lista de las columnas en el DataFrame *tidy*, ju
 
 Aquí hay una muestra de cinco filas seleccionadas aleatoriamente del DataFrame para que se tenga una idea de cómo se ven los datos:
 
-| # |Entidad | Municipio       | Superficie Sembrada | Superficie Cosechada | Superficie Siniestrada | Produccion | Rendimiento | Anio | Mes       | Cultivo                |
-|---------|-----------------|----------------------|------------------------|-------------------------|------------|------------|------|-----------|------------------------|
-| 949223  | Zacatecas       | Pinos                | 10.50                | 8.00                   | 2.5        | 169.60     | 21.20| 2018      | Septiembre            | Cebolla                |
-| 512503  | Yucatán         | Temozón              | 1.50                 | 1.50                   | 0.0        | 28.00      | 18.67| 2020      | Marzo                | Chile verde            |
-| 659064  | Veracruz        | Tlalixcoyan          | 416.00               | 200.00                 | 0.0        | 1,300.00   | 6.50 | 2019      | Enero                 | Limón                  |
-| 672054  | Puebla          | Atzitzihuacán        | 20.00                | 10.00                  | 0.0        | 41.00      | 4.10 | 2019      | Febrero               | Maíz grano            |
-| 130789  | Coahuila        | Lamadrid             | 55.00                | 0.00                   | 0.0        | 0.00       | 0    | 2022      | Enero                | Avena forrajera en verde|
-
+| Index | Entidad   | Municipio       | Superficie Sembrada | Superficie Cosechada | Superficie Siniestrada | Produccion | Rendimiento | Anio | Mes       | Cultivo                |
+|-------|-----------|-----------------|----------------------|------------------------|-------------------------|------------|------------|------|-----------|------------------------|
+| 949223  | Zacatecas | Pinos                | 10.50                | 8.00                   | 2.5                    | 169.60     | 21.20      | 2018 | Septiembre | Cebolla                |
+| 512503  | Yucatán   | Temozón              | 1.50                 | 1.50                   | 0.0                    | 28.00      | 18.67      | 2020 | Marzo      | Chile verde            |
+| 659064  | Veracruz  | Tlalixcoyan          | 416.00               | 200.00                 | 0.0                    | 1,300.00   | 6.50       | 2019 | Enero     | Limón                  |
+| 672054  | Puebla    | Atzitzihuacán        | 20.00                | 10.00                  | 0.0                    | 41.00      | 4.10       | 2019 | Febrero   | Maíz grano            |
+| 130789  | Coahuila  | Lamadrid             | 55.00                | 0.00                   | 0.0                    | 0.00       | 0          | 2022 | Enero     | Avena forrajera en verde|
 
 ### SNIIM
 
@@ -191,11 +190,11 @@ A continuación, se muestra una lista de las columnas en el DataFrame *tidy*, ju
 
 Aquí hay una muestra de cinco filas seleccionadas aleatoriamente del DataFrame para que se tenga una idea de cómo se ven los datos:
 
-| # |  Fecha   | Presentacion          | Origen                    | Destino                                              | Precio_min | Precio_max | precio_frec | Observacion      | Cultivo            |
-|----------|-----------------------|-------------------------- |----------------------------------------------------- |:------------:|:------------:|:------------:|----------------- |------------------- |
-|   123232  | 11/11/2020             | Manojo                    | Baja California                                  | Baja California Sur: Unión de Comerciantes de ...  | 3.0       | 7.00       | 7.00          | nan             | cilantro_primera   |
-|   92619   | 19/11/2019             | Rollo de 20 pzas.          | Jalisco                                          | Nuevo León: Mercado de Abasto "Estrella" de Sa... | 6.5       | 7.50       | 6.50          | nan             | caña_primera       |
-|   136301  | 11/05/2018             | Caja de 10 kg.             | Importación                                      | Durango: Central de Abasto "Francisco Villa"   | 62.0      | 62.00      | 62.00          | Origen U.S.A.    | ciruela pasa_primera |
-|   124224  | 24/05/2021             | Manojo                    | Baja California                                  | Baja California Sur: Unión de Comerciantes de ...  | 3.0       | 7.00       | 5.00          | nan             | cilantro_primera   |
-|   15799   | 09/11/2018             | Caja de 20 kg.             | Aguascalientes                                  | Nayarit: Mercado de abasto 'Adolfo López Mateo...  | 32.0      | 33.25      | 32.25          | nan             | aguacate pagua_primera |
+| Index |   Fecha   | Presentacion          | Origen                    | Destino         | Precio_min | Precio_max | precio_frec | Observacion      | Cultivo            |
+|-------|------------|-----------------------|-------------------------- |-----------------|------------|------------|------------ |----------------- |------------------- |
+| 123232 | 11/11/2020 | Manojo                | Baja California           | Baja California Sur: Unión de Comerciantes de ...  | 3.0       | 7.00       | 7.00         | nan             | cilantro_primera   |
+| 92619   | 19/11/2019 | Rollo de 20 pzas.      | Jalisco                   | Nuevo León: Mercado de Abasto "Estrella" de Sa... | 6.5       | 7.50       | 6.50         | nan             | caña_primera       |
+| 136301 | 11/05/2018 | Caja de 10 kg.         | Importación               | Durango: Central de Abasto "Francisco Villa"   | 62.0      | 62.00      | 62.00         | Origen U.S.A.    | ciruela pasa_primera |
+| 124224 | 24/05/2021 | Manojo                | Baja California           | Baja California Sur: Unión de Comerciantes de ...  | 3.0       | 7.00       | 5.00         | nan             | cilantro_primera   |
+| 15799   | 09/11/2018 | Caja de 20 kg.         | Aguascalientes            | Nayarit: Mercado de abasto 'Adolfo López Mateo...  | 32.0      | 33.25      | 32.25         | nan             | aguacate pagua_primera |
 
