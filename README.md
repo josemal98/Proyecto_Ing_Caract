@@ -95,17 +95,17 @@ Dado que el interés principal es obtener datos mensuales de cada cultivo desde 
 Como nota, es necesario mencionar que no se iteró sobre las categorías de los filtros de Riego y Modalidad. En su lugar, en ambos casos se empleó la categoría que abarca a todas las otras.  
 
 
-### Dataframe tidy
+#### Dataframe tidy
 
 A continuación se muestra una descripción del DataFrame *tidy* que resultó de la descarga y organización de los datos, el cual fue almacenado en formato parquet.
 
-#### Información general
+##### Información general
 
 - **Nombre del DataFrame:** tidy.parquet
 - **Número de filas:** 992213
 - **Número de columnas:** 10
 
-#### Columnas
+##### Columnas
 
 A continuación, se muestra una lista de las columnas en el DataFrame *tidy*, junto con una breve descripción de cada una:
 
@@ -163,4 +163,6 @@ La obtención de datos del  SNIIM se realiza mediante una clase "ScrapperMarketA
 Cada producto de interés se trata como una instancia de esta clase, lo que permite una gestión controlada del proceso. En cada una de estas instancias se realiza un *parsing* con BeautifulSoup, a partir del cual se puede extraer el contenido de cada una de las celdas de la tabla. Este contenido se almacena en un DataFrame temporal. A su vez, este DataFrame se guarda en un archivo CSV cuyo nombre sigue el formato: "sniim_product_cultivo_calidad.csv". Estos archivos fueron añadidos la carpeta "raw" del presente repositorio. 
 
 Por último, la transformación de estos datos a un formato *tidy* implicó cargar y concatenar todos los archivos CSV. Tal como con los datos del SIAP, este nuevo DataFrame *tidy* se guardó en formato parquet, y se añadió al presente repositorio. 
+
+#### DataFrame tidy
 
