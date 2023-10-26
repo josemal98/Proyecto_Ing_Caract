@@ -1,0 +1,587 @@
+fecha,presentacion,origen,destino,precio_min,precio_max,precio_frec,obs,name
+09/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Central de Abasto de Mérida,6.00,6.00,6.00,,nanche_primera
+10/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Central de Abasto de Mérida,6.00,6.00,6.00,,nanche_primera
+13/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Central de Abasto de Mérida,6.00,6.00,6.00,,nanche_primera
+14/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Central de Abasto de Mérida,6.00,6.00,6.00,,nanche_primera
+15/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Central de Abasto de Mérida,6.00,6.00,6.00,,nanche_primera
+06/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+09/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+10/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+11/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+12/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,19.00,19.00,19.00,,nanche_primera
+13/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,19.00,19.00,19.00,,nanche_primera
+16/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,17.50,17.50,17.50,,nanche_primera
+17/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,17.50,17.50,17.50,,nanche_primera
+18/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,16.50,16.50,16.50,,nanche_primera
+19/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+20/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+23/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+24/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+25/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+26/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+27/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+30/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,6.00,6.00,6.00,,nanche_primera
+31/07/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+01/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+02/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,9.00,9.00,9.00,,nanche_primera
+03/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+06/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+07/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+08/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,6.00,6.00,6.00,,nanche_primera
+09/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+10/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+13/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+14/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+15/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+16/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+17/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+20/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+21/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+22/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+23/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+24/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+27/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,6.00,6.00,6.00,,nanche_primera
+28/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+29/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+30/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+31/08/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+03/09/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.00,7.00,7.00,,nanche_primera
+04/09/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,6.00,6.00,6.00,,nanche_primera
+05/09/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,6.00,6.00,6.00,,nanche_primera
+06/09/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,6.00,6.00,6.00,,nanche_primera
+07/09/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+10/09/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+11/09/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+12/09/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+13/09/2018,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+12/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,15.00,14.00,,nanche_primera
+13/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,14.00,13.00,,nanche_primera
+16/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,13.00,12.50,,nanche_primera
+17/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,13.00,12.50,,nanche_primera
+18/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,12.50,12.50,,nanche_primera
+19/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",10.00,10.00,10.00,,nanche_primera
+20/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",10.00,10.00,10.00,,nanche_primera
+23/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",8.00,9.00,8.00,,nanche_primera
+24/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",8.00,9.00,8.00,,nanche_primera
+25/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",8.00,9.00,8.00,,nanche_primera
+26/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,10.00,7.50,,nanche_primera
+27/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,10.00,7.50,,nanche_primera
+30/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,7.50,6.00,,nanche_primera
+31/07/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,7.50,6.00,,nanche_primera
+01/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,7.50,6.00,,nanche_primera
+02/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,7.50,6.00,,nanche_primera
+03/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,7.50,7.50,,nanche_primera
+06/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,7.50,7.50,,nanche_primera
+07/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.50,6.00,,nanche_primera
+08/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,8.00,7.50,,nanche_primera
+09/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,9.00,7.50,,nanche_primera
+10/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.50,6.00,,nanche_primera
+13/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.50,6.00,,nanche_primera
+14/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.50,6.50,,nanche_primera
+15/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.50,6.50,,nanche_primera
+16/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.50,6.50,,nanche_primera
+17/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.50,6.50,,nanche_primera
+20/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.50,6.50,,nanche_primera
+21/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.50,6.00,,nanche_primera
+22/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.50,6.00,,nanche_primera
+23/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.50,6.00,,nanche_primera
+24/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.50,6.00,,nanche_primera
+27/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.00,6.00,5.00,,nanche_primera
+28/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.00,6.00,5.00,,nanche_primera
+29/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.00,6.00,5.00,,nanche_primera
+30/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.00,6.00,6.00,,nanche_primera
+31/08/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.00,6.00,6.00,,nanche_primera
+03/09/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.00,6.00,6.00,,nanche_primera
+04/09/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.00,6.00,6.00,,nanche_primera
+05/09/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.00,6.00,6.00,,nanche_primera
+06/09/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.00,6.00,6.00,,nanche_primera
+07/09/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,9.00,7.50,,nanche_primera
+10/09/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,9.00,7.50,,nanche_primera
+11/09/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,9.00,7.50,,nanche_primera
+12/09/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.00,9.00,9.00,,nanche_primera
+13/09/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.00,9.00,9.00,,nanche_primera
+14/09/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",10.00,10.00,10.00,,nanche_primera
+17/09/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",10.00,10.00,10.00,,nanche_primera
+18/09/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",10.00,10.00,10.00,,nanche_primera
+19/09/2018,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.00,11.00,11.00,,nanche_primera
+01/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+02/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+03/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+04/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+05/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+08/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+09/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+10/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+11/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+12/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+15/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+16/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+17/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+18/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+19/07/2019,Kilogramo,Yucatán,Yucatán: Central de Abasto de Mérida,25.00,25.00,25.00,,nanche_primera
+19/06/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+20/06/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+21/06/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+24/06/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+25/06/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+26/06/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+27/06/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+28/06/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+01/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+02/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+03/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+04/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+05/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,nanche_primera
+08/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,nanche_primera
+09/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,nanche_primera
+10/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,nanche_primera
+11/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,21.00,21.00,21.00,,nanche_primera
+12/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,21.00,21.00,21.00,,nanche_primera
+26/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+29/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+30/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+31/07/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+01/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,Temporada de Producción,nanche_primera
+02/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,Temporada de Producción,nanche_primera
+05/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+06/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+07/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+08/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+09/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,11.00,11.00,11.00,,nanche_primera
+12/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,11.00,11.00,11.00,,nanche_primera
+13/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,11.00,11.00,11.00,,nanche_primera
+14/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+15/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+16/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+19/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+20/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+21/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+22/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+23/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+26/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.00,13.00,13.00,,nanche_primera
+27/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.00,13.00,13.00,,nanche_primera
+28/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.00,13.00,13.00,,nanche_primera
+29/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.00,13.00,13.00,,nanche_primera
+30/08/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+02/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+03/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+04/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.00,13.00,13.00,,nanche_primera
+05/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+06/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.50,13.50,13.50,,nanche_primera
+09/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.00,13.00,13.00,,nanche_primera
+10/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+11/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+12/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+13/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.50,13.50,13.50,,nanche_primera
+17/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.50,13.50,13.50,,nanche_primera
+18/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.50,13.50,13.50,,nanche_primera
+19/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.50,13.50,13.50,,nanche_primera
+20/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.50,13.50,13.50,,nanche_primera
+23/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.50,13.50,13.50,,nanche_primera
+24/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.50,13.50,13.50,,nanche_primera
+25/09/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.50,13.50,13.50,,nanche_primera
+26/11/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+27/11/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+28/11/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+29/11/2019,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+19/06/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,30.00,30.00,,nanche_primera
+20/06/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,30.00,30.00,,nanche_primera
+21/06/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,30.00,30.00,,nanche_primera
+24/06/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,30.00,30.00,,nanche_primera
+25/06/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,30.00,30.00,,nanche_primera
+26/06/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,30.00,30.00,,nanche_primera
+27/06/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",29.00,29.00,29.00,,nanche_primera
+28/06/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",29.00,29.00,29.00,,nanche_primera
+01/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",20.00,22.50,20.00,,nanche_primera
+02/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",20.00,22.50,20.00,,nanche_primera
+03/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",20.00,22.50,20.00,,nanche_primera
+04/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",22.50,22.50,22.50,,nanche_primera
+05/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",22.50,22.50,22.50,,nanche_primera
+08/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",22.50,22.50,22.50,,nanche_primera
+09/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",22.50,22.50,22.50,,nanche_primera
+10/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",22.50,22.50,22.50,,nanche_primera
+11/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",22.50,22.50,22.50,,nanche_primera
+12/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,15.00,12.50,Exceso de producción,nanche_primera
+15/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.00,12.50,11.00,,nanche_primera
+16/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.00,12.50,11.00,,nanche_primera
+17/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.00,12.50,12.50,,nanche_primera
+18/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.00,12.50,12.50,,nanche_primera
+19/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.00,12.50,12.50,,nanche_primera
+22/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.00,12.50,12.50,,nanche_primera
+23/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.00,12.50,12.50,,nanche_primera
+24/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.00,12.50,12.50,,nanche_primera
+25/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.00,12.50,12.50,,nanche_primera
+26/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.00,12.50,12.50,,nanche_primera
+29/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.00,12.50,12.50,,nanche_primera
+30/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.00,12.50,12.50,,nanche_primera
+31/07/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.00,12.50,12.50,,nanche_primera
+01/08/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.00,12.50,12.50,,nanche_primera
+02/08/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.00,12.50,12.50,,nanche_primera
+05/08/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.00,12.50,12.50,,nanche_primera
+06/08/2019,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.00,12.50,12.50,,nanche_primera
+07/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.00,12.00,12.00,,nanche_primera
+08/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.00,12.00,12.00,,nanche_primera
+09/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.00,12.00,12.00,,nanche_primera
+12/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.00,12.00,12.00,,nanche_primera
+13/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.20,11.20,11.20,,nanche_primera
+14/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.20,11.20,11.20,,nanche_primera
+15/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.20,11.20,11.20,,nanche_primera
+16/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",8.00,8.00,8.00,,nanche_primera
+19/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",8.00,8.00,8.00,,nanche_primera
+20/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.20,10.00,10.00,,nanche_primera
+21/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.20,10.00,10.00,,nanche_primera
+22/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",8.80,10.00,10.00,,nanche_primera
+23/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",8.80,10.00,10.00,,nanche_primera
+26/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",8.80,9.60,9.60,,nanche_primera
+27/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.60,9.60,9.60,,nanche_primera
+28/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",10.00,10.00,10.00,,nanche_primera
+29/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",10.00,10.00,10.00,,nanche_primera
+30/08/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.60,9.60,9.60,,nanche_primera
+02/09/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.60,9.60,9.60,,nanche_primera
+03/09/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.60,9.60,9.60,,nanche_primera
+04/09/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.60,9.60,9.60,,nanche_primera
+05/09/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.60,9.60,9.60,,nanche_primera
+06/09/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.60,9.60,9.60,,nanche_primera
+09/09/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.60,9.60,9.60,,nanche_primera
+10/09/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.60,9.60,9.60,,nanche_primera
+11/09/2019,Caja de 25 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.60,9.60,9.60,,nanche_primera
+14/07/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,17.50,17.50,17.50,Inicio de temporada,nanche_primera
+15/07/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,18.00,18.00,18.00,,nanche_primera
+16/07/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,18.00,18.00,18.00,,nanche_primera
+17/07/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,19.00,19.00,19.00,,nanche_primera
+17/08/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,17.50,17.50,17.50,,nanche_primera
+18/08/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+19/08/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,14.00,14.00,14.00,,nanche_primera
+20/08/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,14.00,14.00,14.00,,nanche_primera
+21/08/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.50,13.50,13.50,,nanche_primera
+24/08/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,13.50,13.50,13.50,,nanche_primera
+25/08/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+26/08/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,16.00,16.00,16.00,,nanche_primera
+27/08/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,17.50,17.50,17.50,,nanche_primera
+28/08/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+31/08/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,14.00,14.00,14.00,,nanche_primera
+01/09/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,14.00,14.00,14.00,,nanche_primera
+02/09/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+03/09/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+04/09/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,14.00,14.00,14.00,,nanche_primera
+07/09/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+08/09/2020,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+17/08/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",16.00,17.00,16.00,,nanche_primera
+18/08/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,16.00,16.00,,nanche_primera
+19/08/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,16.00,15.00,,nanche_primera
+20/08/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",16.00,16.00,16.00,,nanche_primera
+21/08/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",16.00,16.00,16.00,,nanche_primera
+24/08/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,15.00,15.00,,nanche_primera
+25/08/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,15.00,15.00,,nanche_primera
+26/08/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,15.00,15.00,,nanche_primera
+27/08/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.50,15.00,15.00,,nanche_primera
+28/08/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,14.50,14.00,,nanche_primera
+31/08/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",13.50,14.00,13.50,,nanche_primera
+01/09/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",13.00,14.00,14.00,,nanche_primera
+02/09/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",13.00,14.00,14.00,,nanche_primera
+03/09/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",13.00,13.50,13.50,,nanche_primera
+04/09/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,15.00,15.00,,nanche_primera
+07/09/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,15.00,15.00,,nanche_primera
+08/09/2020,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.50,15.00,15.00,,nanche_primera
+12/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,Inicio de cosecha,nanche_primera
+13/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+14/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,19.00,19.00,19.00,,nanche_primera
+15/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,19.00,19.00,19.00,,nanche_primera
+16/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+19/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+20/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+21/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+22/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+23/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+26/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+27/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+28/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+29/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+30/07/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+02/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,2.50,2.50,2.50,Exceso de producción,nanche_primera
+03/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,2.50,2.50,2.50,,nanche_primera
+04/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,2.50,2.50,2.50,,nanche_primera
+05/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,2.50,2.50,2.50,,nanche_primera
+06/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,2.50,2.50,2.50,,nanche_primera
+09/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,2.50,2.50,2.50,,nanche_primera
+10/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,3.50,3.50,3.50,,nanche_primera
+11/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,3.50,3.50,3.50,,nanche_primera
+12/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,3.50,3.50,3.50,,nanche_primera
+13/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,2.50,2.50,2.50,,nanche_primera
+16/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,2.50,2.50,2.50,,nanche_primera
+17/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+18/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+19/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+20/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+23/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+24/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+25/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+26/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+27/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+30/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+31/08/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+01/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+02/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+03/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+06/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+07/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+08/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+09/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+10/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+13/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+14/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+15/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+17/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+20/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,11.00,11.00,11.00,,nanche_primera
+21/09/2021,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,11.00,11.00,11.00,,nanche_primera
+09/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",20.00,20.00,20.00,Inicio de cosecha,nanche_primera
+12/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",20.00,20.00,20.00,,nanche_primera
+13/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",19.00,20.00,19.00,,nanche_primera
+14/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",17.50,19.00,17.50,,nanche_primera
+15/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",17.50,19.00,17.50,,nanche_primera
+16/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",19.00,20.00,20.00,,nanche_primera
+19/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",19.00,20.00,20.00,,nanche_primera
+20/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",21.00,22.50,22.50,,nanche_primera
+21/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",21.00,22.50,22.50,,nanche_primera
+22/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",22.50,22.50,22.50,,nanche_primera
+23/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,17.50,15.00,,nanche_primera
+26/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+27/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,15.00,14.00,,nanche_primera
+28/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,15.00,14.00,,nanche_primera
+29/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",13.50,14.00,13.50,,nanche_primera
+30/07/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",13.50,14.00,13.50,,nanche_primera
+24/08/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.00,6.00,,nanche_primera
+25/08/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.50,6.00,6.00,,nanche_primera
+30/08/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.00,6.00,,nanche_primera
+31/08/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.00,6.00,,nanche_primera
+01/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.00,6.00,,nanche_primera
+02/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.00,6.00,,nanche_primera
+03/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.00,6.00,,nanche_primera
+06/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.00,6.00,,nanche_primera
+07/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.00,6.00,,nanche_primera
+08/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.00,6.00,,nanche_primera
+09/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.00,6.00,,nanche_primera
+10/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,7.50,7.50,,nanche_primera
+13/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,7.50,7.50,,nanche_primera
+14/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,7.50,7.50,,nanche_primera
+15/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,9.00,7.50,,nanche_primera
+17/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",8.00,9.00,8.00,,nanche_primera
+20/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.00,10.00,10.00,,nanche_primera
+21/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.00,10.00,10.00,,nanche_primera
+22/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,12.50,12.50,,nanche_primera
+23/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,12.50,12.50,,nanche_primera
+24/09/2021,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,12.50,12.50,,nanche_primera
+12/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,nanche_primera
+13/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,nanche_primera
+14/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,nanche_primera
+15/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,nanche_primera
+18/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,nanche_primera
+19/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,nanche_primera
+20/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,nanche_primera
+21/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+22/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+25/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+26/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+27/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+28/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+29/07/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+01/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+02/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+03/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+04/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+05/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+08/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+09/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+10/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+11/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,11.00,11.00,11.00,,nanche_primera
+12/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,11.00,11.00,11.00,,nanche_primera
+15/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+16/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+17/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,7.50,7.50,7.50,,nanche_primera
+18/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+19/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+22/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+23/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+24/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+25/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+26/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+29/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+30/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+31/08/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+01/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+02/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,nanche_primera
+05/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+06/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+07/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+08/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,5.00,5.00,5.00,,nanche_primera
+09/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,9.00,9.00,9.00,,nanche_primera
+12/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,9.00,9.00,9.00,,nanche_primera
+13/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,11.00,11.00,11.00,,nanche_primera
+14/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,11.00,11.00,11.00,,nanche_primera
+15/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,11.00,11.00,11.00,,nanche_primera
+19/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+20/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+21/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+22/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+23/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+26/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+27/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+28/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+29/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+30/09/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+03/10/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+04/10/2022,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+12/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,30.00,30.00,Inicia temporada del producto,nanche_primera
+13/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,35.00,30.00,,nanche_primera
+14/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,35.00,35.00,,nanche_primera
+15/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",35.00,35.00,35.00,,nanche_primera
+18/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,30.00,30.00,,nanche_primera
+19/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,30.00,30.00,,nanche_primera
+20/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",27.50,30.00,30.00,,nanche_primera
+21/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",25.00,30.00,25.00,,nanche_primera
+22/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",25.00,30.00,25.00,,nanche_primera
+25/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",20.00,22.50,20.00,,nanche_primera
+26/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",20.00,21.00,20.00,,nanche_primera
+27/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",20.00,20.00,20.00,,nanche_primera
+28/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",20.00,20.00,20.00,,nanche_primera
+29/07/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",20.00,20.00,20.00,,nanche_primera
+01/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+02/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+03/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,10.00,10.00,Inicia mucha producción,nanche_primera
+04/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,10.00,10.00,,nanche_primera
+05/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,10.00,10.00,,nanche_primera
+08/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",10.00,10.00,10.00,,nanche_primera
+09/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",10.00,10.00,10.00,,nanche_primera
+10/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.00,10.00,10.00,,nanche_primera
+11/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",9.00,10.00,9.00,,nanche_primera
+12/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,10.00,9.00,,nanche_primera
+15/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,10.00,9.00,,nanche_primera
+16/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",7.50,10.00,9.00,,nanche_primera
+17/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.50,6.50,6.50,,nanche_primera
+18/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.50,6.50,6.50,,nanche_primera
+19/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.50,6.50,6.50,,nanche_primera
+22/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",6.00,6.00,6.00,,nanche_primera
+23/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.50,5.50,5.50,,nanche_primera
+24/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.00,5.00,5.00,,nanche_primera
+25/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.00,5.00,5.00,,nanche_primera
+26/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",4.50,4.50,4.50,,nanche_primera
+29/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",4.50,4.50,4.50,,nanche_primera
+30/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",4.50,4.50,4.50,,nanche_primera
+31/08/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",4.50,4.50,4.50,,nanche_primera
+01/09/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",4.50,4.50,4.50,,nanche_primera
+02/09/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",4.50,4.50,4.50,,nanche_primera
+05/09/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.00,6.00,6.00,,nanche_primera
+06/09/2022,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",5.00,6.00,6.00,,nanche_primera
+03/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,25.00,25.00,25.00,Inicia temporada del producto,nanche_primera
+04/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,25.00,25.00,25.00,,nanche_primera
+05/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,25.00,25.00,25.00,,nanche_primera
+06/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,25.00,25.00,25.00,,nanche_primera
+07/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,25.00,25.00,25.00,,nanche_primera
+10/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,27.50,27.50,27.50,,nanche_primera
+11/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,27.50,27.50,27.50,,nanche_primera
+12/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,27.50,27.50,27.50,,nanche_primera
+13/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,27.50,27.50,27.50,,nanche_primera
+14/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,27.50,27.50,27.50,,nanche_primera
+17/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,25.00,25.00,25.00,,nanche_primera
+18/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,25.00,25.00,25.00,,nanche_primera
+19/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,25.00,25.00,25.00,,nanche_primera
+20/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,25.00,25.00,25.00,,nanche_primera
+21/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,nanche_primera
+24/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,Epoca de mucha producción,nanche_primera
+25/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+26/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+27/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,Temporada de mucha producción,nanche_primera
+28/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+31/07/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+01/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+02/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+03/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+04/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+07/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+08/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,10.00,10.00,10.00,,nanche_primera
+09/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+10/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+11/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+14/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,14.00,14.00,14.00,,nanche_primera
+15/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,16.00,16.00,16.00,,nanche_primera
+16/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,16.00,16.00,16.00,,nanche_primera
+17/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,16.00,16.00,16.00,,nanche_primera
+18/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+21/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+22/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+23/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+24/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+25/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+28/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+29/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+30/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+31/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+01/09/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+04/09/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+05/09/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,12.50,12.50,12.50,,nanche_primera
+06/09/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+07/09/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+08/09/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+11/09/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,17.50,17.50,17.50,,nanche_primera
+12/09/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,17.50,17.50,17.50,,nanche_primera
+13/09/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,17.50,17.50,17.50,,nanche_primera
+14/09/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,17.50,17.50,17.50,,nanche_primera
+15/09/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,nanche_primera
+03/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,30.00,30.00,,nanche_primera
+04/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,30.00,30.00,,nanche_primera
+05/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",27.50,30.00,30.00,,nanche_primera
+06/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",27.50,30.00,30.00,,nanche_primera
+07/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",27.50,30.00,30.00,,nanche_primera
+10/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,30.00,30.00,,nanche_primera
+11/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",30.00,30.00,30.00,,nanche_primera
+12/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",29.00,30.00,30.00,,nanche_primera
+13/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",29.00,30.00,30.00,,nanche_primera
+14/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",29.00,30.00,30.00,,nanche_primera
+17/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",27.50,29.00,27.50,,nanche_primera
+18/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",27.50,29.00,27.50,,nanche_primera
+19/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",27.50,27.50,27.50,,nanche_primera
+20/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",25.00,27.50,26.00,,nanche_primera
+21/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",25.00,27.50,26.00,,nanche_primera
+24/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",25.00,25.00,25.00,,nanche_primera
+25/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",22.50,25.00,25.00,,nanche_primera
+26/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",22.50,25.00,25.00,,nanche_primera
+27/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",22.50,25.00,25.00,,nanche_primera
+28/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",20.00,20.00,20.00,,nanche_primera
+31/07/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",20.00,20.00,20.00,,nanche_primera
+01/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",19.00,20.00,20.00,,nanche_primera
+02/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,17.50,15.00,,nanche_primera
+03/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,17.50,15.00,,nanche_primera
+04/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+07/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,14.00,14.00,,nanche_primera
+08/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,13.00,12.50,,nanche_primera
+09/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,15.00,15.00,,nanche_primera
+10/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+11/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+14/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,15.00,14.00,,nanche_primera
+15/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,15.00,14.00,,nanche_primera
+16/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,15.00,14.00,,nanche_primera
+17/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+18/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+21/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+22/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+23/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",13.00,15.00,14.00,,nanche_primera
+24/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",13.00,14.00,14.00,,nanche_primera
+25/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",13.00,14.00,14.00,,nanche_primera
+28/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,13.50,13.50,,nanche_primera
+29/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,13.50,12.50,,nanche_primera
+30/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,12.50,12.50,,nanche_primera
+31/08/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,12.50,12.50,,nanche_primera
+01/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,12.50,12.50,,nanche_primera
+04/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.50,12.50,11.50,,nanche_primera
+05/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",11.50,12.50,11.50,,nanche_primera
+06/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,14.00,12.50,,nanche_primera
+07/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",12.50,14.00,12.50,,nanche_primera
+08/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+11/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+12/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+13/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,16.00,15.00,,nanche_primera
+14/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,16.00,15.00,,nanche_primera
+15/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",15.00,15.00,15.00,,nanche_primera
+18/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,14.00,14.00,,nanche_primera
+19/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,14.00,14.00,,nanche_primera
+21/09/2023,Caja de 20 kg.,Yucatán,"Yucatán: Mercado ""Casa del Pueblo""",14.00,14.00,14.00,,nanche_primera
