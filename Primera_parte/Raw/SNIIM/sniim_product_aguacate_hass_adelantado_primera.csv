@@ -1,0 +1,454 @@
+fecha,presentacion,origen,destino,precio_min,precio_max,precio_frec,obs,name
+15/08/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",46.00,48.00,46.00,,aguacate hass adelantado_primera
+16/08/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",46.00,48.00,46.00,,aguacate hass adelantado_primera
+17/08/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",46.00,48.00,48.00,Variedad flor loca.,aguacate hass adelantado_primera
+20/08/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",41.00,42.00,42.00,,aguacate hass adelantado_primera
+21/08/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",41.00,42.00,42.00,,aguacate hass adelantado_primera
+22/08/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",47.00,55.00,55.00,Variedad flor loca.,aguacate hass adelantado_primera
+23/08/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",47.00,55.00,55.00,,aguacate hass adelantado_primera
+24/08/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",42.00,48.00,48.00,,aguacate hass adelantado_primera
+27/08/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",42.00,48.00,46.00,,aguacate hass adelantado_primera
+28/08/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",42.00,48.00,46.00,,aguacate hass adelantado_primera
+29/08/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",40.00,55.00,48.00,"Flor loca, precio según tamaño.",aguacate hass adelantado_primera
+30/08/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",40.00,55.00,48.00,Precio según tamaño.,aguacate hass adelantado_primera
+31/08/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",42.00,55.00,55.00,"Variedad flor loca, precio según tamaño.",aguacate hass adelantado_primera
+03/09/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",42.00,48.00,45.00,,aguacate hass adelantado_primera
+04/09/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",42.00,48.00,45.00,,aguacate hass adelantado_primera
+05/09/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",42.00,56.00,48.00,"Variedad flor loca, precio según tamaño.",aguacate hass adelantado_primera
+06/09/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",42.00,56.00,48.00,Precio según tamaño.,aguacate hass adelantado_primera
+07/09/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",42.00,60.00,56.00,Precio según tamaño.,aguacate hass adelantado_primera
+10/09/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",34.00,48.00,40.00,Preciosegún tamaño.,aguacate hass adelantado_primera
+11/09/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",34.00,48.00,40.00,Precio según tamaño.,aguacate hass adelantado_primera
+12/09/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",32.00,48.00,38.00,"Precio según tamaño, variedad flor loca.",aguacate hass adelantado_primera
+13/09/2018,Kilogramo,Michoacán,"Durango: Central de Abasto ""Francisco Villa""",32.00,48.00,40.00,Precio según tamaño.,aguacate hass adelantado_primera
+23/08/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",35.56,44.44,43.33,,aguacate hass adelantado_primera
+24/08/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,48.89,44.44,,aguacate hass adelantado_primera
+27/08/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",41.11,50.00,44.44,,aguacate hass adelantado_primera
+28/08/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",43.33,46.67,44.44,,aguacate hass adelantado_primera
+29/08/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,44.44,44.44,,aguacate hass adelantado_primera
+30/08/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,46.67,44.44,,aguacate hass adelantado_primera
+31/08/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,47.78,44.44,,aguacate hass adelantado_primera
+03/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,50.00,44.44,,aguacate hass adelantado_primera
+04/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",41.11,50.00,44.44,,aguacate hass adelantado_primera
+05/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",41.11,44.44,44.44,,aguacate hass adelantado_primera
+06/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,44.44,41.11,,aguacate hass adelantado_primera
+07/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",40.00,44.44,44.44,,aguacate hass adelantado_primera
+10/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",41.11,44.44,44.44,,aguacate hass adelantado_primera
+11/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,46.67,42.22,,aguacate hass adelantado_primera
+12/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,44.44,42.22,,aguacate hass adelantado_primera
+13/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",40.00,46.67,42.22,,aguacate hass adelantado_primera
+14/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",41.11,47.78,42.22,,aguacate hass adelantado_primera
+17/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",41.11,51.11,42.22,,aguacate hass adelantado_primera
+18/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,44.44,38.89,,aguacate hass adelantado_primera
+19/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",36.67,46.67,42.22,,aguacate hass adelantado_primera
+20/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",35.56,42.22,38.89,,aguacate hass adelantado_primera
+21/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",36.67,42.22,38.89,,aguacate hass adelantado_primera
+24/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,44.44,40.00,,aguacate hass adelantado_primera
+25/09/2018,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,44.44,40.00,,aguacate hass adelantado_primera
+06/04/2020,Kilogramo,Michoacán,Guerrero: Central de Abastos de Acapulco,36.00,36.00,36.00,,aguacate hass adelantado_primera
+07/04/2020,Kilogramo,Michoacán,Guerrero: Central de Abastos de Acapulco,36.00,36.00,36.00,,aguacate hass adelantado_primera
+08/04/2020,Kilogramo,Michoacán,Guerrero: Central de Abastos de Acapulco,36.00,36.00,36.00,,aguacate hass adelantado_primera
+13/04/2020,Kilogramo,Michoacán,Guerrero: Central de Abastos de Acapulco,36.00,36.00,36.00,,aguacate hass adelantado_primera
+14/04/2020,Kilogramo,Michoacán,Guerrero: Central de Abastos de Acapulco,36.00,36.00,36.00,,aguacate hass adelantado_primera
+15/04/2020,Kilogramo,Michoacán,Guerrero: Central de Abastos de Acapulco,36.00,36.00,36.00,,aguacate hass adelantado_primera
+16/04/2020,Kilogramo,Michoacán,Guerrero: Central de Abastos de Acapulco,36.00,36.00,36.00,,aguacate hass adelantado_primera
+17/04/2020,Kilogramo,Michoacán,Guerrero: Central de Abastos de Acapulco,36.00,36.00,36.00,,aguacate hass adelantado_primera
+20/04/2020,Kilogramo,Michoacán,Guerrero: Central de Abastos de Acapulco,36.00,36.00,36.00,,aguacate hass adelantado_primera
+21/04/2020,Kilogramo,Michoacán,Guerrero: Central de Abastos de Acapulco,36.00,36.00,36.00,,aguacate hass adelantado_primera
+22/04/2020,Kilogramo,Michoacán,Guerrero: Central de Abastos de Acapulco,36.00,36.00,36.00,,aguacate hass adelantado_primera
+24/04/2020,Kilogramo,Michoacán,Guerrero: Central de Abastos de Acapulco,39.00,39.00,39.00,,aguacate hass adelantado_primera
+27/04/2020,Kilogramo,Michoacán,Guerrero: Central de Abastos de Acapulco,39.00,39.00,39.00,,aguacate hass adelantado_primera
+20/08/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",37.78,38.89,38.89,,aguacate hass adelantado_primera
+21/08/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",37.78,38.89,38.89,,aguacate hass adelantado_primera
+24/08/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,38.89,37.78,,aguacate hass adelantado_primera
+25/08/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,36.67,33.33,,aguacate hass adelantado_primera
+26/08/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,36.67,36.67,,aguacate hass adelantado_primera
+27/08/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,36.67,36.67,,aguacate hass adelantado_primera
+28/08/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,38.89,33.33,,aguacate hass adelantado_primera
+31/08/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,38.89,35.56,,aguacate hass adelantado_primera
+01/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,41.11,36.67,,aguacate hass adelantado_primera
+03/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,38.89,36.67,,aguacate hass adelantado_primera
+04/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,42.22,38.89,,aguacate hass adelantado_primera
+07/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,42.22,38.89,,aguacate hass adelantado_primera
+08/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,38.89,36.67,,aguacate hass adelantado_primera
+09/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",32.22,38.89,33.33,,aguacate hass adelantado_primera
+10/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,33.33,32.22,,aguacate hass adelantado_primera
+11/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",32.22,37.78,33.33,,aguacate hass adelantado_primera
+14/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",32.22,37.78,35.56,,aguacate hass adelantado_primera
+15/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,37.78,35.56,,aguacate hass adelantado_primera
+17/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,36.67,33.33,,aguacate hass adelantado_primera
+18/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,33.33,31.11,,aguacate hass adelantado_primera
+21/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,37.78,33.33,,aguacate hass adelantado_primera
+22/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,35.56,31.11,,aguacate hass adelantado_primera
+23/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,35.56,33.33,,aguacate hass adelantado_primera
+24/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",32.22,35.56,33.33,,aguacate hass adelantado_primera
+25/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,38.89,33.33,,aguacate hass adelantado_primera
+28/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,37.78,33.33,,aguacate hass adelantado_primera
+29/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,34.44,33.33,,aguacate hass adelantado_primera
+30/09/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,33.33,31.11,,aguacate hass adelantado_primera
+01/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,33.33,31.11,,aguacate hass adelantado_primera
+02/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,35.56,33.33,,aguacate hass adelantado_primera
+05/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,35.56,30.00,,aguacate hass adelantado_primera
+06/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",28.89,35.56,31.11,,aguacate hass adelantado_primera
+07/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,35.56,30.00,,aguacate hass adelantado_primera
+08/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,30.00,28.89,,aguacate hass adelantado_primera
+09/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,33.33,27.78,,aguacate hass adelantado_primera
+12/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,35.56,30.00,,aguacate hass adelantado_primera
+13/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",24.44,33.33,28.89,,aguacate hass adelantado_primera
+14/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,33.33,31.11,,aguacate hass adelantado_primera
+15/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,33.33,27.78,,aguacate hass adelantado_primera
+16/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",24.44,31.11,27.78,,aguacate hass adelantado_primera
+19/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,35.56,31.11,,aguacate hass adelantado_primera
+20/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",23.33,28.89,24.44,,aguacate hass adelantado_primera
+21/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",26.67,30.00,27.78,,aguacate hass adelantado_primera
+22/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",26.67,33.33,27.78,,aguacate hass adelantado_primera
+23/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",22.22,28.89,24.44,,aguacate hass adelantado_primera
+26/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",26.67,28.89,26.67,,aguacate hass adelantado_primera
+27/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",25.56,31.11,26.67,,aguacate hass adelantado_primera
+28/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,31.11,28.89,,aguacate hass adelantado_primera
+29/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",26.67,30.00,30.00,,aguacate hass adelantado_primera
+30/10/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",22.22,28.89,22.22,,aguacate hass adelantado_primera
+03/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,25.56,21.11,,aguacate hass adelantado_primera
+04/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,24.44,20.00,,aguacate hass adelantado_primera
+05/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,24.44,22.22,,aguacate hass adelantado_primera
+06/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,26.67,22.22,,aguacate hass adelantado_primera
+09/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,30.00,24.44,,aguacate hass adelantado_primera
+10/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,24.44,24.44,,aguacate hass adelantado_primera
+11/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,25.56,22.22,,aguacate hass adelantado_primera
+12/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,22.22,20.00,,aguacate hass adelantado_primera
+13/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,28.89,24.44,,aguacate hass adelantado_primera
+17/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",24.44,28.89,25.56,,aguacate hass adelantado_primera
+18/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",24.44,28.89,25.56,,aguacate hass adelantado_primera
+19/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",24.44,28.89,27.78,,aguacate hass adelantado_primera
+20/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",21.11,26.67,24.44,,aguacate hass adelantado_primera
+23/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",22.22,26.67,24.44,,aguacate hass adelantado_primera
+24/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",21.11,28.89,26.67,,aguacate hass adelantado_primera
+25/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",26.67,30.00,26.67,,aguacate hass adelantado_primera
+26/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",24.44,27.78,25.56,,aguacate hass adelantado_primera
+27/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,26.67,23.33,,aguacate hass adelantado_primera
+30/11/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",22.22,28.89,25.56,,aguacate hass adelantado_primera
+01/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",24.44,26.67,24.44,,aguacate hass adelantado_primera
+02/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",24.44,27.78,26.67,,aguacate hass adelantado_primera
+03/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",22.22,26.67,24.44,,aguacate hass adelantado_primera
+04/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",24.44,30.00,26.67,,aguacate hass adelantado_primera
+07/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",24.44,30.00,26.67,,aguacate hass adelantado_primera
+08/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,27.78,25.56,,aguacate hass adelantado_primera
+09/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",24.44,27.78,24.44,,aguacate hass adelantado_primera
+10/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",22.22,27.78,24.44,,aguacate hass adelantado_primera
+11/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",22.22,28.89,25.56,,aguacate hass adelantado_primera
+14/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",23.33,28.89,27.78,,aguacate hass adelantado_primera
+15/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",24.44,30.00,26.67,,aguacate hass adelantado_primera
+16/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",21.11,24.44,24.44,,aguacate hass adelantado_primera
+17/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",22.22,28.89,24.44,,aguacate hass adelantado_primera
+18/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,27.78,21.11,,aguacate hass adelantado_primera
+21/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",21.11,27.78,27.78,,aguacate hass adelantado_primera
+22/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",21.11,27.78,27.78,,aguacate hass adelantado_primera
+23/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",22.22,30.00,25.56,,aguacate hass adelantado_primera
+24/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",24.44,31.11,27.78,,aguacate hass adelantado_primera
+28/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,27.78,25.56,,aguacate hass adelantado_primera
+29/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",22.22,26.67,25.56,,aguacate hass adelantado_primera
+30/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,27.78,24.44,,aguacate hass adelantado_primera
+31/12/2020,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,27.78,24.44,,aguacate hass adelantado_primera
+04/01/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,27.78,22.22,,aguacate hass adelantado_primera
+05/01/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,27.78,22.22,,aguacate hass adelantado_primera
+06/01/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,27.78,20.00,,aguacate hass adelantado_primera
+07/01/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,27.78,22.22,,aguacate hass adelantado_primera
+08/01/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,27.78,22.22,,aguacate hass adelantado_primera
+11/01/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,27.78,22.22,,aguacate hass adelantado_primera
+12/01/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",20.00,25.56,22.22,,aguacate hass adelantado_primera
+13/01/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",21.11,27.78,24.44,,aguacate hass adelantado_primera
+14/01/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",22.22,27.78,24.44,,aguacate hass adelantado_primera
+15/01/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",22.22,32.22,27.78,,aguacate hass adelantado_primera
+24/08/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",47.78,55.56,50.00,,aguacate hass adelantado_primera
+25/08/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",47.78,55.56,50.00,,aguacate hass adelantado_primera
+26/08/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",47.78,55.56,50.00,,aguacate hass adelantado_primera
+27/08/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",46.67,55.56,50.00,,aguacate hass adelantado_primera
+30/08/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,55.56,,aguacate hass adelantado_primera
+31/08/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,55.56,,aguacate hass adelantado_primera
+01/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,55.56,,aguacate hass adelantado_primera
+02/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,61.11,55.56,,aguacate hass adelantado_primera
+03/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,61.11,55.56,,aguacate hass adelantado_primera
+06/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,61.11,55.56,,aguacate hass adelantado_primera
+07/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",46.67,55.56,48.89,,aguacate hass adelantado_primera
+08/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",48.89,55.56,50.00,,aguacate hass adelantado_primera
+09/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,50.00,,aguacate hass adelantado_primera
+10/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,55.56,,aguacate hass adelantado_primera
+13/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",46.67,58.89,53.33,,aguacate hass adelantado_primera
+14/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",48.89,61.11,55.56,,aguacate hass adelantado_primera
+15/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",47.78,55.56,55.56,,aguacate hass adelantado_primera
+17/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",52.22,57.78,55.56,,aguacate hass adelantado_primera
+20/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",46.67,58.89,53.33,,aguacate hass adelantado_primera
+21/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",51.11,55.56,55.56,,aguacate hass adelantado_primera
+22/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",48.89,55.56,55.56,,aguacate hass adelantado_primera
+23/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",48.89,55.56,55.56,,aguacate hass adelantado_primera
+24/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",46.67,55.56,55.56,,aguacate hass adelantado_primera
+27/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",46.67,55.56,52.22,,aguacate hass adelantado_primera
+28/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",46.67,58.89,55.56,,aguacate hass adelantado_primera
+29/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",48.89,55.56,53.33,,aguacate hass adelantado_primera
+30/09/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",51.11,55.56,53.33,,aguacate hass adelantado_primera
+01/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,57.78,53.33,,aguacate hass adelantado_primera
+04/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,57.78,55.56,,aguacate hass adelantado_primera
+05/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",51.11,57.78,55.56,,aguacate hass adelantado_primera
+06/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,53.33,,aguacate hass adelantado_primera
+07/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,53.33,,aguacate hass adelantado_primera
+08/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,50.00,,aguacate hass adelantado_primera
+11/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,55.56,,aguacate hass adelantado_primera
+12/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",46.67,53.33,51.11,,aguacate hass adelantado_primera
+13/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",46.67,53.33,50.00,,aguacate hass adelantado_primera
+14/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",48.89,55.56,53.33,,aguacate hass adelantado_primera
+15/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,51.11,50.00,,aguacate hass adelantado_primera
+18/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",46.67,53.33,50.00,,aguacate hass adelantado_primera
+19/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,50.00,46.67,,aguacate hass adelantado_primera
+20/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,47.78,42.22,,aguacate hass adelantado_primera
+21/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,46.67,42.22,,aguacate hass adelantado_primera
+22/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,50.00,44.44,,aguacate hass adelantado_primera
+25/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,50.00,47.78,,aguacate hass adelantado_primera
+26/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,47.78,44.44,,aguacate hass adelantado_primera
+27/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",40.00,50.00,44.44,,aguacate hass adelantado_primera
+28/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",41.11,50.00,46.67,,aguacate hass adelantado_primera
+29/10/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,47.78,44.44,,aguacate hass adelantado_primera
+01/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,53.33,50.00,,aguacate hass adelantado_primera
+03/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,53.33,44.44,,aguacate hass adelantado_primera
+04/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",43.33,46.67,44.44,,aguacate hass adelantado_primera
+05/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,52.22,46.67,,aguacate hass adelantado_primera
+08/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",41.11,48.89,44.44,,aguacate hass adelantado_primera
+09/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",40.00,44.44,42.22,,aguacate hass adelantado_primera
+10/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",40.00,47.78,44.44,,aguacate hass adelantado_primera
+11/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",35.56,44.44,40.00,,aguacate hass adelantado_primera
+12/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",35.56,46.67,42.22,,aguacate hass adelantado_primera
+16/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",37.78,47.78,41.11,,aguacate hass adelantado_primera
+17/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,46.67,44.44,,aguacate hass adelantado_primera
+18/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,44.44,42.22,,aguacate hass adelantado_primera
+19/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",41.11,53.33,47.78,,aguacate hass adelantado_primera
+22/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,51.11,44.44,,aguacate hass adelantado_primera
+23/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,52.22,42.22,,aguacate hass adelantado_primera
+24/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,50.00,44.44,,aguacate hass adelantado_primera
+25/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",43.33,53.33,50.00,,aguacate hass adelantado_primera
+26/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,53.33,46.67,,aguacate hass adelantado_primera
+29/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,51.11,44.44,,aguacate hass adelantado_primera
+30/11/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",43.33,48.89,44.44,,aguacate hass adelantado_primera
+01/12/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,52.22,46.67,,aguacate hass adelantado_primera
+02/12/2021,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,52.22,48.89,,aguacate hass adelantado_primera
+25/05/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",83.33,100.00,88.89,HASS CALIDAD EXTRA ADELANTADO    850.00   950.00   900.00,aguacate hass adelantado_primera
+26/05/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",88.89,100.00,94.44,HASS CALIDADA EXTRA   850.00   1000.00    900.00,aguacate hass adelantado_primera
+27/05/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",88.89,100.00,94.44,HASS CALIDAD EXTRA ADELANTADO   850.00    1000.00   920.00,aguacate hass adelantado_primera
+30/05/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",86.67,100.00,94.44,HASS CALIDAD EXTRA   780.00   950.00   950.000,aguacate hass adelantado_primera
+31/05/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",77.78,88.89,83.33,HASS CALIDAD EXTRA ADELANTADO    800.00    900.00    850.00,aguacate hass adelantado_primera
+01/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",83.33,94.44,88.89,HASS ADELANTADO EXTRA    800.00    900.00   850.00,aguacate hass adelantado_primera
+02/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",83.33,100.00,88.89,HASS ADELANTADO EXTRA    800.00   950.00   850.00,aguacate hass adelantado_primera
+03/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",86.67,100.00,88.89,HASS ADELNTADO EXTRA    820.00   950.00   900.00,aguacate hass adelantado_primera
+06/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",83.33,105.56,94.44,HASS ADELANTADO EXTRA   800.00    950.00   900.00,aguacate hass adelantado_primera
+07/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",83.33,94.44,88.89,HASS ADELNATADO EXTRA   750.00    900.00   850.00,aguacate hass adelantado_primera
+08/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",73.33,88.89,83.33,HASS ADELANTADO EXTRA   720.00    900.00   800.00,aguacate hass adelantado_primera
+09/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",75.56,94.44,83.33,HASS ADELANTADO EXTRA    740.00    900.00   800.00,aguacate hass adelantado_primera
+10/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",77.78,94.44,83.33,HASS ADELANTADO EXTRA    750.00   900.00   850.00,aguacate hass adelantado_primera
+13/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",77.78,94.44,83.33,HASS ADELANTADO EXTRA    750.00   900.00   800.00,aguacate hass adelantado_primera
+14/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",80.00,88.89,83.33,HASS ADELANTADO EXTRA    750.00    850.00   850.00,aguacate hass adelantado_primera
+15/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",80.00,88.89,83.33,HAS DELANTADO EXTRA    780.00   850.00  800.00,aguacate hass adelantado_primera
+16/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",80.00,88.89,83.33,hass adelantado extra   780.00   850.00   800.00,aguacate hass adelantado_primera
+17/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",77.78,88.89,83.33,HASS ADELNATDADO EXTRA   750.00   850.00   800.00,aguacate hass adelantado_primera
+20/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",77.78,88.89,77.78,HASS ADELANTADO EXTRA  750.00    850.00    800.00,aguacate hass adelantado_primera
+21/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",72.22,86.67,83.33,HASS ADELANTADO EXTRA   800.00   880.00   850.00,aguacate hass adelantado_primera
+22/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",72.22,86.67,83.33,HASS ADELTADO EXTRA   800    880.00   850.00,aguacate hass adelantado_primera
+23/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",72.22,84.44,77.78,HASS ADELNTADO EXTRA   800.00   860.00   850.00,aguacate hass adelantado_primera
+24/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",72.22,83.33,77.78,HASS ADELANTADO EXTRA   800.00   860.00    850.00,aguacate hass adelantado_primera
+27/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",72.22,83.33,77.78,HAS ADELANTADO EXTRA  760,aguacate hass adelantado_primera
+28/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",77.78,94.44,80.00,HASS ADELANTADO EXTRA   780.00   820.00   800.00,aguacate hass adelantado_primera
+29/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",77.78,83.33,80.00,HASS ADELANTADO EXTRA    760.00   880.00   800.00,aguacate hass adelantado_primera
+30/06/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",75.56,83.33,80.00,HASS ADELANTADO EXTRA   760.00   850.00   800.00,aguacate hass adelantado_primera
+01/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",75.56,83.33,77.78,HASS ADELANTADO EXTRA   780.00   850.00   800.00,aguacate hass adelantado_primera
+04/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",77.78,86.67,83.33,HASS ADELANTADO EXTRA   780.00   850.00   800.00,aguacate hass adelantado_primera
+05/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",72.22,83.33,77.78,HASS ADELENTADO EXTRA    750.00   850.00    800.00,aguacate hass adelantado_primera
+06/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",77.78,88.89,83.33,HASS ADELNTADO EXTRA    750.00   850.00   800.00,aguacate hass adelantado_primera
+07/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",77.78,88.89,83.33,HASS ADELNTADA EXTRA   750.00    850.00   800.003,aguacate hass adelantado_primera
+08/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",75.56,88.89,77.78,HASS ADELANTADO EXTRA    780.00    900.00    800.00,aguacate hass adelantado_primera
+11/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",75.56,88.89,83.33,HASS ADELANTADO EXTRA   780.00    900.00   850.00,aguacate hass adelantado_primera
+12/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",71.11,80.00,77.78,HASS ADELANTADO EXTRA    720.00   820.00    800.00,aguacate hass adelantado_primera
+13/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",71.11,80.00,77.78,HASS ADELANTADO EXTRA   750.00    820.00    800.00,aguacate hass adelantado_primera
+14/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",71.11,80.00,75.56,HASS ADELANTADO EXTRA   720.00   820.00   800.00,aguacate hass adelantado_primera
+15/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",72.22,80.00,77.78,HASS ADELNTADO EXTRA   720.00   820.000  750.00,aguacate hass adelantado_primera
+18/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",66.67,80.00,72.22,HASS ADELANTADO EXTRA   750.00   820.00   750.00,aguacate hass adelantado_primera
+19/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",66.67,80.00,72.22,HASS ADELANTADO EXTRA   650.00   750.00    750.00,aguacate hass adelantado_primera
+20/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",68.89,80.00,72.22,HASS ADELANTADO EXTRA    650.00    780.00   750.00,aguacate hass adelantado_primera
+21/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",68.89,83.33,77.78,HASS ADELANTADO EXTRA   680.00    780.00   750.00,aguacate hass adelantado_primera
+22/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",68.89,81.11,77.78,HASS ADELANTADO EXTRA   680.00   800.00  750.00,aguacate hass adelantado_primera
+25/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",68.89,77.78,72.22,HASS ADELANTADO CALIDAD EXTRA  730.00   780.00    750.00,aguacate hass adelantado_primera
+26/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",61.11,72.22,66.67,HASS ADELANTADO EXTRA   680.00   750.00   700.00,aguacate hass adelantado_primera
+27/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",61.11,72.22,66.67,HASS ADELANTADO EXTRA   700.00   780.00   750.00,aguacate hass adelantado_primera
+28/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",61.11,72.22,66.67,HASS ADELANTADO  EXTRA   700.00    790.00   750.00  ,aguacate hass adelantado_primera
+29/07/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",61.11,72.22,66.67,HAS ADELANTADO EXTRA   650.00   780.00   700.00,aguacate hass adelantado_primera
+01/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",61.11,72.22,66.67,HASS ADELANTADO EXTRA    600.00   730.00   650.00,aguacate hass adelantado_primera
+02/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,68.89,66.67,AGUACATE HASS ADELATADO EXTRA   600.00   780.00    680.00,aguacate hass adelantado_primera
+03/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,68.89,66.67,HASS ADELANTADO EXTRA   600.0    720.00    680.00,aguacate hass adelantado_primera
+04/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",60.00,68.89,66.67,HASS ADELANTADO EXTRA   600.00   720.00   680.00,aguacate hass adelantado_primera
+05/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",60.00,68.89,66.67,HASS ADELANTADO EXTRA   680.00    700.00    700.00,aguacate hass adelantado_primera
+08/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,66.67,61.11,HASS ADELANTADO EXTRA    600.00   700.00   650.00,aguacate hass adelantado_primera
+09/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",53.33,64.44,55.56,,aguacate hass adelantado_primera
+10/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",53.33,61.11,55.56,HASS ADELANTADO EXTRA    600.00   680.00   650.00,aguacate hass adelantado_primera
+11/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",51.11,64.44,55.56,HASS ADELANTADO EXTRA   580.00  680.00  600.00,aguacate hass adelantado_primera
+12/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",53.33,64.44,55.56,HASS ADELENTADO EXTRA   580.00   680.00   600.00,aguacate hass adelantado_primera
+15/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",53.33,61.11,55.56,HASS ADELANTADO EXTRA   580.00   680.00   600.00,aguacate hass adelantado_primera
+16/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",53.33,64.44,55.56,HASS ADELANTADO EXTRA    570.00   680.00   650.00,aguacate hass adelantado_primera
+17/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,64.44,57.78,HASS ADELANTADO EXTRA   600.00   680.00   620.00,aguacate hass adelantado_primera
+18/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",53.33,64.44,57.78,HASS ADELANTADO EXTRA   580.00   620.00  600.00,aguacate hass adelantado_primera
+19/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",53.33,64.44,55.56,HASS ADELANTADO EXTRA   580.00    650.00   600.00,aguacate hass adelantado_primera
+22/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",53.33,62.22,57.78,HASS ADELANTADO EXTRA   580.00   620.00    600.00,aguacate hass adelantado_primera
+23/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",53.33,61.11,57.78,HASS ADELANTADO EXTRA   580.00   680.00   650.00,aguacate hass adelantado_primera
+24/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,64.44,57.78,HASS ADELANTADO EXTRA   580.00    680.00    650.00,aguacate hass adelantado_primera
+25/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,64.44,57.78,HASS ADELANTADO EXTRA   600.00   650.00   600.00,aguacate hass adelantado_primera
+26/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,64.44,55.56,HASS ADELANTADO ECTRA   550.00   650.00   600.00,aguacate hass adelantado_primera
+29/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,57.78,53.33,HASS ADELANTADO EXTRA   480.00  600.00   600.00,aguacate hass adelantado_primera
+30/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,55.56,55.56,HASS ADELANTADO EXTRA    540.00    600.00    580.00,aguacate hass adelantado_primera
+31/08/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,55.56,46.67,HASS ADELANTADO EXTRA   450.00   550.00  520.00,aguacate hass adelantado_primera
+01/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,57.78,46.67,PRECIO MINIMO SE REFIERE A TAMAÑO Y CALIDAD DEL PRODUCTO  HASS ADELANTADO EXTRA    450.00    560.00    550.00,aguacate hass adelantado_primera
+02/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,55.56,47.78,,aguacate hass adelantado_primera
+05/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,51.11,50.00,HASS ADELANTADO EXTRA   470.00    520.00    500.00,aguacate hass adelantado_primera
+06/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,50.00,50.00,HASS ADELANTADO EXTRA   480.00   530.00    500.00,aguacate hass adelantado_primera
+07/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,57.78,50.00,HASS CALIDAD EXTRA   480.00   560.00   550.00,aguacate hass adelantado_primera
+08/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,61.11,57.78,A LA ALZA POR TERMINACIÒN DE TEMPORADA   HASS ADELANTADO EXTRA    550.00   600.00   600.00,aguacate hass adelantado_primera
+09/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,61.11,57.78,HASS ADELANTADO EXTRA  500.00   620.00  600.00,aguacate hass adelantado_primera
+12/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,61.11,55.56,HASS ADELANTADO EXTRA    480.00   600.00   550.00,aguacate hass adelantado_primera
+13/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,50.00,46.67,HASS ADELANTADO EXTRA    400.00    550.00    500.00,aguacate hass adelantado_primera
+14/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,47.78,44.44,HASS ADELNTADO EXTRA    400.00    500.00    450.00,aguacate hass adelantado_primera
+15/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,47.78,44.44,HASS ADELANTADO EXTRA    420.00   460.00    450.00,aguacate hass adelantado_primera
+19/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",37.78,48.89,44.44,HASS CALIDAD EXTRA  450.00     530.00    450.00,aguacate hass adelantado_primera
+20/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",41.11,48.89,44.44,HASS CALIDAD EXTRA    400.00   500.000   450.00,aguacate hass adelantado_primera
+21/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",41.11,48.89,46.67,HASS ADELANTADO EXTRA   400.00   500.00   450.00,aguacate hass adelantado_primera
+22/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,50.00,46.67,HASS ADELANTADO EXTRA     420.00    480.00     460.00,aguacate hass adelantado_primera
+23/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",37.78,46.67,42.22,HASS ADELANTADO EXTRA    400.00   520.00 0 480.00,aguacate hass adelantado_primera
+26/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,50.00,44.44,HASS ADELANTADO EXTRA   400.00   480.00   450.00,aguacate hass adelantado_primera
+27/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,50.00,44.44,,aguacate hass adelantado_primera
+28/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,50.00,44.44,"calidad extra adelantado 380.00,500.00,450.00",aguacate hass adelantado_primera
+29/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",40.00,44.44,42.22,"calidad extra adelantado 400.00,500.00,480.00",aguacate hass adelantado_primera
+30/09/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",41.11,46.67,44.44,HASS ADELNTADO EXTRA    420.00    470.00    450.00,aguacate hass adelantado_primera
+03/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",40.00,50.00,46.67,HASS ADELANTADO EXTRA   450.00    520.00    500.00,aguacate hass adelantado_primera
+04/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",40.00,50.00,46.67,HASS ADELANTADO EXTRA     420.00     480.00     480.00,aguacate hass adelantado_primera
+05/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",37.78,46.67,40.00,hass adelantado extra  370.00    450.00    400.00,aguacate hass adelantado_primera
+06/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",40.00,50.00,46.67,HASS ADELANTADO EXTRA   400.00    500.00   450.00,aguacate hass adelantado_primera
+07/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",36.67,50.00,46.67,HASS ADELANTADO EXTRA   360.00    500.00   450.00,aguacate hass adelantado_primera
+10/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",36.67,50.00,46.67,HASS ADELANTADO EXTRA    360.00   500.00   470.00,aguacate hass adelantado_primera
+11/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",37.78,47.78,44.44,HASS ADELANTADO EXTRA    390.00    480.00   450.00,aguacate hass adelantado_primera
+12/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",35.56,48.89,41.11,HASS ADELANTADO EXTRA   380.00    500.00    460.00,aguacate hass adelantado_primera
+13/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",37.78,47.78,44.44,HASS ADELANTADO EXTRA   380.00   500.00   450.00,aguacate hass adelantado_primera
+14/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",37.78,46.67,41.11,HASS ADELANTADO EXTRA    390.00   500.00   430.00,aguacate hass adelantado_primera
+17/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,47.78,40.00,HASS ADELANTADO EXTRA    400.00   500.00  450.00,aguacate hass adelantado_primera
+18/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",40.00,46.67,41.11,HASS ADELANATDO EXTRA   380.00    420.00   400.00,aguacate hass adelantado_primera
+19/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",37.78,46.67,42.22,HASS ADELANTADO EXTRA    400.00    500.00   450.00,aguacate hass adelantado_primera
+20/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,50.00,42.22,HASS  ADELANTADO EXTRA   400.00   500.00   450.00,aguacate hass adelantado_primera
+21/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,47.78,42.22,HASS ADELANTADO EXTRA    380.00   500.00   450.00,aguacate hass adelantado_primera
+24/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",36.67,46.67,38.89,HASS ADELANTADO EXTRA    380.00   450.00   400.00,aguacate hass adelantado_primera
+25/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,44.44,37.78,HASS ADELANTADO EXTRA   340.00   450.00  430.00,aguacate hass adelantado_primera
+26/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,42.22,35.56,HASS ADELANTADO EXTRA   350.00   430.00   370.00,aguacate hass adelantado_primera
+27/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,42.22,37.78,HAS ADELANTADO EXTRA    350.00  440.00   420.00,aguacate hass adelantado_primera
+28/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,41.11,37.78,HASS CALIDAD EXTRA   350.00    440.00    400,aguacate hass adelantado_primera
+31/10/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,42.22,38.89,HASS ADELANTADO EXTRA   350.00    440.00    400.00,aguacate hass adelantado_primera
+01/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,42.22,37.78,HASS ADELANTADO EXTRA   335.00    440.00   390.00,aguacate hass adelantado_primera
+03/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,41.11,38.89,HASS ADELANTADO EXTRA   350.0    430.00   400.00,aguacate hass adelantado_primera
+04/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,42.22,38.89,HASS ADELANTADO EXTRA   350.00   420.00   400.00,aguacate hass adelantado_primera
+07/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,42.22,35.56,HASS ADELANTADO EXTRA    350.00  430.000   380.00   ,aguacate hass adelantado_primera
+08/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,42.22,37.78,HASS ADELANTADO EXTRA    350.00    430.00   390.00,aguacate hass adelantado_primera
+09/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,41.11,36.67,HASS ADELNTADO EXTRA   350.00   440.00   380.00,aguacate hass adelantado_primera
+10/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,42.22,37.78,HASS ADELANTADO EXTRA   350.00   450.00    410.00,aguacate hass adelantado_primera
+11/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,40.00,35.56,HASS ADELANTADO EXTRA    350.00   450.00   400.00,aguacate hass adelantado_primera
+14/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",26.67,38.89,33.33,HASS ASDELANTADO EXTRA    320.00   420.00   380.00,aguacate hass adelantado_primera
+15/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,38.89,33.33,HASS ADELANTADO EXTRA    330.00   400.00   350.00,aguacate hass adelantado_primera
+16/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",33.33,40.00,35.56,HASS ADELNATDO EXTRA    350.000   420.00   370.00,aguacate hass adelantado_primera
+17/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,42.22,35.56,HASS ADELANTADO EXTRA   340.00   440.00   400.00,aguacate hass adelantado_primera
+18/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,41.11,33.33,"AGUACATE HASS ADELANTADO EXTRA 330,400,360",aguacate hass adelantado_primera
+22/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,41.11,35.56,HASS ADELNTADO EXTRA   330.000    430.00   400.00,aguacate hass adelantado_primera
+23/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",28.89,40.00,33.33,HASS ADELANTADO EXTRA   320.00   420.00   370.00,aguacate hass adelantado_primera
+24/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,38.89,35.56,HASS ADELANTADO EXTRA   330.00   420.00   390.00,aguacate hass adelantado_primera
+25/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,36.67,33.33,"HASS ADELANTADO CALIDAD EXTRA 360,410,380",aguacate hass adelantado_primera
+28/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,38.89,33.33,HASS ADELANTADO EXTRA   340.00   420.00   370.00,aguacate hass adelantado_primera
+29/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,38.89,32.22,HASS ADELANTADO EXTRA    300.00   400.00   350.00,aguacate hass adelantado_primera
+30/11/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,38.89,32.22,HAS ADELANTADO EXTRA    300.00   400.00   350.00,aguacate hass adelantado_primera
+01/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",26.67,37.78,33.33,HASS ADELANTADO EXTRA   320.00  400.00   380.00,aguacate hass adelantado_primera
+02/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",26.67,33.33,31.11,HASS ADELANATADO EXTRA    300.00   360.00   350.00,aguacate hass adelantado_primera
+05/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",26.67,38.89,31.11,HASS ADELANTADO EXTRA   300.00   380.00   340.00,aguacate hass adelantado_primera
+06/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,36.67,31.11,HASS ADELANTADO EXTRA    300.00    380.00   350.00,aguacate hass adelantado_primera
+07/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,35.56,31.11,HASS ADELANTADO EXTRA   300.00    380.00    350.00,aguacate hass adelantado_primera
+08/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,36.67,33.33,HASS ADELANTADO EXTRA    300.00   380.00   350.00,aguacate hass adelantado_primera
+09/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,37.78,31.11,HASS ADELANTADO EXTRA   300.00    380.00    330.00,aguacate hass adelantado_primera
+12/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,33.33,31.11,HASS ADELANTADO EXTRA   300.00   390.00   330.00,aguacate hass adelantado_primera
+13/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",28.89,38.89,33.33,,aguacate hass adelantado_primera
+14/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,38.89,33.33,HASS ADELANTADO EXTRA  320.00    400.00   360.00,aguacate hass adelantado_primera
+15/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,38.89,33.33,HASS ADELANTADO EXTRA    310.000   400.00   350.00,aguacate hass adelantado_primera
+16/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,38.89,33.33,HASS ADELANTADO EXTRA   300.00    400.00   350.00,aguacate hass adelantado_primera
+19/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,38.89,33.33,HASS ADELENTADO EXTRA  300.00    400.00   350.00,aguacate hass adelantado_primera
+20/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",26.67,36.67,31.11,"hass adelantado extra 300,400,380",aguacate hass adelantado_primera
+21/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,38.89,33.33,"hass adelantado calidad extra 300,400,370",aguacate hass adelantado_primera
+22/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,38.89,33.33,"hass adelantado extra 300,400,350",aguacate hass adelantado_primera
+23/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",28.89,38.89,35.56,"hass adelantado extra 320,400,370",aguacate hass adelantado_primera
+26/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,38.89,33.33,"hass adelantado extra 320,400,360",aguacate hass adelantado_primera
+27/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",27.78,41.11,33.33,"hass adelantado extra 300,430,350",aguacate hass adelantado_primera
+28/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,41.11,33.33,"hass adelantado extra 360,450,380",aguacate hass adelantado_primera
+29/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",28.89,38.89,33.33,HASS ADELANTADO EXTRA    360.00    450.00   380.00,aguacate hass adelantado_primera
+30/12/2022,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",28.89,38.89,31.11,HASS ADELANTADO EXTRA    320.00   440.000   400.00,aguacate hass adelantado_primera
+02/01/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,38.89,32.22,HASS ADELANTADO EXTRA   330.0    450.00    410.00,aguacate hass adelantado_primera
+03/01/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,33.33,31.11,HASS ADELANTADO EXTRA   300.00   400.00  350.00,aguacate hass adelantado_primera
+04/01/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,33.33,31.11,HASS  ADELANTADO EXTRA   300.00   400.00   350.00,aguacate hass adelantado_primera
+05/01/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",30.00,35.56,33.33,HASS ADELANTADO EXTRA    320.00   370.00   350.00,aguacate hass adelantado_primera
+06/01/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,38.89,33.33,HASS ADELANTADO EXTRA    320.00    400.00    350.00,aguacate hass adelantado_primera
+09/01/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",31.11,38.89,33.33,HASS ADELANTADO EXTRA   300.00   410.00   360.00,aguacate hass adelantado_primera
+31/07/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,53.33,,aguacate hass adelantado_primera
+01/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,53.33,,aguacate hass adelantado_primera
+02/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,53.33,,aguacate hass adelantado_primera
+03/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,66.67,55.56,CALIDAD EXTRA   600.00    700.00   600.00,aguacate hass adelantado_primera
+04/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,66.67,55.56,HASS ADELANTADO EXTRA  550.00   700.00    600.00   ,aguacate hass adelantado_primera
+07/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,61.11,61.11,HASS ADELANTADO EXTRA    550.00    650.00    600.00,aguacate hass adelantado_primera
+08/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,66.67,55.56,"HASS ADELANTADO EXTRA  550,700,600",aguacate hass adelantado_primera
+09/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,66.67,55.56,"CALIDAD EXTRA 600,700,600",aguacate hass adelantado_primera
+10/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,72.22,61.11,"CALIDAD EXTRA 650,750,680",aguacate hass adelantado_primera
+11/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",61.11,72.22,61.11,"CALIDAD EXTRA 600,750,700",aguacate hass adelantado_primera
+14/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,66.67,61.11,HASS ADELANTADO CALIDAD EXTRA   650.00    750.00    600.00,aguacate hass adelantado_primera
+15/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,66.67,55.56,HASS ADELANTADO EXTRA   650.00    750.00    700.00,aguacate hass adelantado_primera
+16/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,55.56,HASS ADELANTADO EXTRA   650.00    750.00    700.00,aguacate hass adelantado_primera
+17/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,55.56,55.56,"calidad extra 650,700,700",aguacate hass adelantado_primera
+18/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,66.67,61.11,HASS ADELANTADO EXTRA   650.00    700.00  680.00,aguacate hass adelantado_primera
+21/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,66.67,61.11,HASS DELANTADO EXTRA   650.00    700.00    680.00,aguacate hass adelantado_primera
+22/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",52.22,61.11,55.56,HASS ADELANTADO EXTRA   650.00    700.00    680.00,aguacate hass adelantado_primera
+23/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",52.22,61.11,55.56,HASS ADELANTADO EXTRA   650.00   700.00   680.00,aguacate hass adelantado_primera
+24/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",52.22,61.11,55.56,HASS ADELANTADO EXTRA  900.00    1000.00    1000.00,aguacate hass adelantado_primera
+25/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",53.33,61.11,55.56,HASS ADELANTADO EXTRA    650.00    700.00   680.00,aguacate hass adelantado_primera
+28/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,61.11,55.56,HASS ADELNTADO EXTRA    650.00   700.00   700.00,aguacate hass adelantado_primera
+29/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",53.33,61.11,55.56,HASS ADELANTADO EXTRA   600.00    700.00   650.00,aguacate hass adelantado_primera
+30/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",53.33,61.11,55.56,HASS ADELANTADO EXTRA   600.00   700.00   650.00,aguacate hass adelantado_primera
+31/08/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",46.67,61.11,55.56,HASS ADELANTADO EXTRA   600.00   700.00    650.00,aguacate hass adelantado_primera
+01/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,66.67,61.11,HASS ADELANTADO EXTRA   600.00    700.00    680.00,aguacate hass adelantado_primera
+04/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,66.67,61.11,HASS ADELANTADO CALIDAD EXTRA   600.00   700.00    680.00,aguacate hass adelantado_primera
+05/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,66.67,64.44,HASS ADELANTADO EXTRA  650.00    720.00    700.00,aguacate hass adelantado_primera
+06/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,66.67,64.44,HASS ADELANTADO EXTRA   650.00   720.00    700.00,aguacate hass adelantado_primera
+07/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,64.44,61.11,HASS ADELANTADO EXTRA   650.00    700.00    680.00,aguacate hass adelantado_primera
+08/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,64.44,62.22,HASS ADELANTADO EXTRA   660.00   700.00   680.00,aguacate hass adelantado_primera
+11/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",61.11,66.67,61.11,HASS ADELANTADO EXTRA    650.00   700.00    700.00,aguacate hass adelantado_primera
+12/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",47.78,61.11,50.00,HASS ADELANTADO EXTRA   600.00    700.00   650.00,aguacate hass adelantado_primera
+13/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,61.11,50.00,HASS ADELANTADO EXTRA    600.00    700.00    650.00,aguacate hass adelantado_primera
+14/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,61.11,50.00,HASS ADELANTADO EXTRA   600.00    700.00    650.00,aguacate hass adelantado_primera
+15/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,61.11,55.56,HASS ADELANTADO EXTRA   600.00    700.00    650.00,aguacate hass adelantado_primera
+18/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",55.56,66.67,61.11,HASS ADELANTADO EXTRA   650.0    750.00    700.00,aguacate hass adelantado_primera
+19/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,61.11,55.56,HASS ADELANTADO EXTRA  580.00    700.00    600.00,aguacate hass adelantado_primera
+20/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,55.56,55.56,HASS ADELANTADO EXTRA   580.00    700.00    600.00,aguacate hass adelantado_primera
+21/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,61.11,55.56,HASS ADELANTADO EXTRA  600.00     700.00    650.00,aguacate hass adelantado_primera
+22/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,61.11,55.56,HASS ADELANTADO EXTRA   600.00   700.00    650.00,aguacate hass adelantado_primera
+25/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,61.11,55.56,HASS ADELANTADO EXTRA    600.00   700.00   650.00,aguacate hass adelantado_primera
+26/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,61.11,55.56,HASS ADELANTADO EXTRA   650.00    800.00   700.00,aguacate hass adelantado_primera
+27/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,55.56,50.00,HASS ADELANTADO EXTRA   600.00   700.00    650.00,aguacate hass adelantado_primera
+28/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,55.56,50.00,HASS ADELANTADO EXTRA   600.00   700.00   650.00,aguacate hass adelantado_primera
+29/09/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,50.00,50.00,HASS ADELANTADO EXTRA   600.00    650.00   650.00,aguacate hass adelantado_primera
+02/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",50.00,52.22,50.00,hass adelantado extra    550.00   650.00    600.00,aguacate hass adelantado_primera
+03/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,55.56,50.00,HASS ADELANTADO EXTRA    550.00    650.00    600.00,aguacate hass adelantado_primera
+04/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,55.56,50.00,HASS ADELANTADO EXTRA   550.00    650.00   600.00,aguacate hass adelantado_primera
+05/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,53.33,50.00,HASS ADELANTADO EXTRA  530.00    630.00   580.00,aguacate hass adelantado_primera
+06/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",42.22,53.33,50.00,HASS ADELANTADO EXTRA   530.00   630.00   580.00,aguacate hass adelantado_primera
+09/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",40.00,50.00,50.00,HASS ADELANTADO EXTRA   530.00     600.00    580.00,aguacate hass adelantado_primera
+10/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,55.56,50.00,HASS ADELANTADO EXTRA   500.00    600.00   550.00,aguacate hass adelantado_primera
+11/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,55.56,50.00,HASS ADELANTADO EXTRA  500.00     600.00    550.00,aguacate hass adelantado_primera
+12/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",44.44,55.56,50.00,HASS ADELANTADO EXTRA    500.00    600.00    550.00,aguacate hass adelantado_primera
+13/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,50.00,44.44,HASS ADELANTADO EXTRA   500.00    600.00    550.00,aguacate hass adelantado_primera
+16/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,50.00,44.44,HASS ADELANTADO EXTRA   500.00    600.00    550.00,aguacate hass adelantado_primera
+17/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,50.00,44.44,HASS ADELANTADO EXTRA   450.00     550.00    500.00,aguacate hass adelantado_primera
+18/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,50.00,44.44,HASS ADELANTADO EXTRA   450.00    550.00    500.00,aguacate hass adelantado_primera
+19/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,50.00,44.44,HASS ADELANTADO EXTRA    500.00   600.00   550.00,aguacate hass adelantado_primera
+20/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,50.00,44.44,HASS ADELANTADO EXTRA   450.00    550.00    500.00,aguacate hass adelantado_primera
+23/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,50.00,44.44,HASS ADELANTADO EXTRA   450.00    550.00    500.00,aguacate hass adelantado_primera
+24/10/2023,Caja de 9 kg.,Michoacán,"Nuevo León: Mercado de Abasto ""Estrella"" de San Nicolás de los Garza",38.89,44.44,42.22,HASS ADELANTADO EXTRA   450.00    500.00    470.00,aguacate hass adelantado_primera
