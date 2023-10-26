@@ -1,0 +1,951 @@
+fecha,presentacion,origen,destino,precio_min,precio_max,precio_frec,obs,name
+13/08/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.50,9.00,8.50,,mango kent_primera
+14/08/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.50,9.00,8.50,,mango kent_primera
+15/08/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",6.00,7.00,7.00,,mango kent_primera
+16/08/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",6.00,7.00,7.00,,mango kent_primera
+17/08/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",6.00,7.50,7.00,,mango kent_primera
+20/08/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",6.00,7.00,7.00,,mango kent_primera
+21/08/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",6.00,7.00,7.00,,mango kent_primera
+22/08/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.00,8.00,8.00,,mango kent_primera
+23/08/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.00,8.00,8.00,,mango kent_primera
+24/08/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.00,8.00,8.00,,mango kent_primera
+27/08/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.00,8.00,8.00,,mango kent_primera
+28/08/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.00,8.00,8.00,,mango kent_primera
+03/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",9.00,10.00,10.00,,mango kent_primera
+04/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",9.00,10.00,10.00,,mango kent_primera
+05/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",10.00,10.00,10.00,,mango kent_primera
+06/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",10.00,10.00,10.00,,mango kent_primera
+07/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",10.00,10.00,10.00,,mango kent_primera
+10/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",10.00,12.00,12.00,,mango kent_primera
+11/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",10.00,12.00,11.00,,mango kent_primera
+12/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",11.00,12.00,11.00,,mango kent_primera
+13/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",11.00,12.00,11.50,,mango kent_primera
+14/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",13.00,15.00,14.00,,mango kent_primera
+17/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",10.00,12.00,10.00,Variedad Kit.,mango kent_primera
+18/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",10.00,12.00,10.00,,mango kent_primera
+19/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",10.00,10.00,10.00,,mango kent_primera
+20/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",10.00,11.00,10.00,,mango kent_primera
+21/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",10.00,10.00,10.00,Variedad Kit.,mango kent_primera
+24/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",13.00,14.00,14.00,Variedad Kit.,mango kent_primera
+25/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",13.00,14.00,14.00,,mango kent_primera
+26/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",13.00,14.00,13.00,Variedad Kit.,mango kent_primera
+27/09/2018,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",13.00,14.00,13.50,,mango kent_primera
+26/07/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.04,13.04,13.04,,mango kent_primera
+27/07/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.04,13.04,13.04,,mango kent_primera
+30/07/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.04,13.04,13.04,,mango kent_primera
+31/07/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.04,13.04,13.04,,mango kent_primera
+01/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.04,13.04,13.04,,mango kent_primera
+02/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.04,13.04,13.04,,mango kent_primera
+03/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.04,13.04,13.04,,mango kent_primera
+06/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.04,13.04,13.04,,mango kent_primera
+07/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.04,13.04,13.04,,mango kent_primera
+08/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.04,13.04,13.04,,mango kent_primera
+09/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+10/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+13/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+14/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+15/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+16/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+17/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+20/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+21/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+22/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+23/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+24/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+27/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+28/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+29/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+30/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+31/08/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+03/09/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+04/09/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+05/09/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+06/09/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+07/09/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+10/09/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+11/09/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+12/09/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+13/09/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+14/09/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+17/09/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+18/09/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+19/09/2018,Caja de 28 kg.,Distrito Federal,"Quintana Roo: Mercado de Chetumal, Quintana Roo",13.21,13.21,13.21,,mango kent_primera
+25/07/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,11.43,11.43,11.43,,mango kent_primera
+26/07/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,11.43,11.43,11.43,,mango kent_primera
+27/07/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,11.43,11.43,11.43,,mango kent_primera
+30/07/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,11.43,11.43,11.43,,mango kent_primera
+31/07/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,11.43,11.43,11.43,,mango kent_primera
+01/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,11.43,11.43,11.43,,mango kent_primera
+02/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,11.07,11.07,11.07,,mango kent_primera
+03/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,11.07,11.07,11.07,,mango kent_primera
+06/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,11.07,11.07,11.07,,mango kent_primera
+07/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,11.07,11.07,11.07,,mango kent_primera
+08/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.71,11.43,10.71,,mango kent_primera
+09/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.71,11.43,10.71,,mango kent_primera
+10/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.71,11.43,11.43,,mango kent_primera
+13/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.71,11.43,11.43,,mango kent_primera
+14/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.71,11.43,10.71,,mango kent_primera
+15/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,11.43,10.00,,mango kent_primera
+16/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,11.43,10.71,,mango kent_primera
+17/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,8.57,10.71,10.71,,mango kent_primera
+20/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,10.71,10.00,,mango kent_primera
+21/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,10.71,10.00,,mango kent_primera
+22/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,10.71,10.00,,mango kent_primera
+23/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,10.71,10.00,,mango kent_primera
+24/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,10.71,10.00,,mango kent_primera
+27/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,10.71,10.71,,mango kent_primera
+28/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,10.71,10.71,,mango kent_primera
+29/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,10.71,10.71,,mango kent_primera
+30/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,10.71,10.71,,mango kent_primera
+31/08/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,10.71,10.00,,mango kent_primera
+03/09/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,10.71,10.00,,mango kent_primera
+04/09/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,10.71,10.00,,mango kent_primera
+05/09/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.00,10.71,10.71,,mango kent_primera
+06/09/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.71,11.79,11.79,,mango kent_primera
+07/09/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.71,11.79,11.79,,mango kent_primera
+10/09/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.71,11.79,11.79,,mango kent_primera
+11/09/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.71,11.79,11.79,,mango kent_primera
+12/09/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.71,11.79,10.71,,mango kent_primera
+13/09/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.71,11.79,10.71,,mango kent_primera
+14/09/2018,Caja de 28 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,10.71,11.79,10.71,,mango kent_primera
+02/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.00,8.00,8.00,,mango kent_primera
+05/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.00,8.00,8.00,,mango kent_primera
+06/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.50,8.00,7.50,,mango kent_primera
+07/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.50,8.00,7.50,,mango kent_primera
+08/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.50,8.00,7.50,,mango kent_primera
+09/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.00,8.50,7.50,,mango kent_primera
+12/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.00,8.50,7.50,,mango kent_primera
+13/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.50,8.00,7.50,,mango kent_primera
+14/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.00,8.00,7.50,,mango kent_primera
+15/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.00,8.00,7.50,,mango kent_primera
+16/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.00,8.00,7.00,,mango kent_primera
+19/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.00,8.00,8.00,,mango kent_primera
+20/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.50,8.00,8.00,,mango kent_primera
+21/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.00,8.50,8.00,,mango kent_primera
+22/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.00,8.50,8.00,,mango kent_primera
+23/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.00,8.00,8.00,,mango kent_primera
+26/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.50,8.00,7.50,,mango kent_primera
+27/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.50,8.00,7.50,,mango kent_primera
+28/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.50,8.00,8.00,,mango kent_primera
+29/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.50,8.00,8.00,,mango kent_primera
+30/08/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",7.50,8.00,7.50,,mango kent_primera
+02/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.00,9.00,8.50,,mango kent_primera
+03/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.00,9.00,8.50,,mango kent_primera
+04/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.50,9.00,8.50,,mango kent_primera
+05/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.50,9.00,8.50,,mango kent_primera
+06/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",9.50,9.50,9.50,,mango kent_primera
+09/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",9.00,9.50,9.00,,mango kent_primera
+10/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",9.00,9.50,9.00,,mango kent_primera
+11/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.50,9.50,8.50,,mango kent_primera
+12/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",8.50,9.50,8.50,,mango kent_primera
+18/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",14.00,14.00,14.00,Variedad Kit.,mango kent_primera
+19/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",14.00,14.00,14.00,Variedad Kit.,mango kent_primera
+20/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",14.00,14.00,14.00,Variedad Kit.,mango kent_primera
+23/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",13.00,14.00,13.00,Variedad Kit.,mango kent_primera
+24/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",13.00,14.00,13.50,Variedad Kit.,mango kent_primera
+25/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",13.00,14.00,14.00,Variedad Kit.,mango kent_primera
+26/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",13.00,14.00,13.00,Variedad Kit.,mango kent_primera
+27/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",13.00,14.00,13.50,Variedad Kit.,mango kent_primera
+30/09/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",13.00,14.00,13.00,Variedad Kit.,mango kent_primera
+01/10/2019,Kilogramo,Sinaloa,"Durango: Central de Abasto ""Francisco Villa""",13.00,14.00,13.00,Variedad Kit.,mango kent_primera
+19/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,10.87,11.30,10.87,,mango kent_primera
+20/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,10.87,11.30,10.87,,mango kent_primera
+23/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,11.74,12.17,11.74,,mango kent_primera
+24/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,11.74,12.17,11.74,,mango kent_primera
+25/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,11.74,12.17,11.74,,mango kent_primera
+26/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,11.74,12.17,11.74,,mango kent_primera
+27/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,11.74,12.17,11.74,,mango kent_primera
+30/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,11.74,12.17,11.74,,mango kent_primera
+01/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,13.04,13.91,13.04,,mango kent_primera
+02/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+03/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+04/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+07/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+08/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+09/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+10/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+11/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+14/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+15/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+16/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+17/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+18/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+21/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+22/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+23/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+24/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+25/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado de Abasto de Guadalajara,12.61,13.04,12.61,,mango kent_primera
+19/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,11.09,11.09,11.09,,mango kent_primera
+20/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,11.09,11.09,11.09,,mango kent_primera
+23/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,11.96,11.96,11.96,,mango kent_primera
+24/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,11.96,11.96,11.96,,mango kent_primera
+25/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,11.96,11.96,11.96,,mango kent_primera
+26/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,11.96,11.96,11.96,,mango kent_primera
+27/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,11.96,11.96,11.96,,mango kent_primera
+30/09/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,11.96,11.96,11.96,,mango kent_primera
+01/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,13.48,13.48,13.48,,mango kent_primera
+02/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+03/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+04/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+07/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+08/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+09/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+10/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+11/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+14/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+15/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+16/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+17/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+18/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+21/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+22/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+23/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+24/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+25/10/2019,Caja de 23 kg.,Jalisco,Jalisco: Mercado Felipe Ángeles de Guadalajara,12.83,12.83,12.83,,mango kent_primera
+20/05/2019,Kilogramo,Nayarit,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",12.00,16.00,15.00,,mango kent_primera
+27/05/2019,Kilogramo,Nayarit,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",14.00,16.00,15.00,,mango kent_primera
+03/06/2019,Kilogramo,Nayarit,"Morelos: Mercado ""Adolfo López Mateos"" de Cuernavaca",12.00,14.00,14.00,,mango kent_primera
+09/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.50,12.50,,mango kent_primera
+10/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.50,12.50,,mango kent_primera
+11/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.50,12.50,,mango kent_primera
+12/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.50,12.50,,mango kent_primera
+13/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.50,12.50,,mango kent_primera
+17/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.50,12.50,,mango kent_primera
+18/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.50,12.50,,mango kent_primera
+19/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.50,12.50,,mango kent_primera
+20/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.50,12.50,,mango kent_primera
+23/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.50,12.50,,mango kent_primera
+24/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.50,12.50,,mango kent_primera
+25/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.86,12.86,12.86,,mango kent_primera
+26/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.86,12.86,12.86,,mango kent_primera
+27/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.86,12.50,,mango kent_primera
+30/09/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.86,12.50,,mango kent_primera
+01/10/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.86,12.50,,mango kent_primera
+02/10/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.86,12.50,,mango kent_primera
+03/10/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,12.86,12.50,,mango kent_primera
+04/10/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,14.29,14.29,,mango kent_primera
+07/10/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,14.29,14.29,,mango kent_primera
+08/10/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,12.50,14.29,14.29,,mango kent_primera
+09/10/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,14.29,16.07,16.07,,mango kent_primera
+10/10/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,14.29,16.07,16.07,,mango kent_primera
+11/10/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,14.29,16.07,16.07,,mango kent_primera
+14/10/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,14.29,16.07,16.07,,mango kent_primera
+15/10/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,14.29,16.07,16.07,,mango kent_primera
+16/10/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,14.29,16.07,16.07,,mango kent_primera
+17/10/2019,Caja de 28 kg.,Chihuahua,Yucatán: Central de Abasto de Mérida,14.29,16.07,16.07,,mango kent_primera
+25/08/2020,Caja de 20 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",15.00,15.00,15.00,,mango kent_primera
+26/08/2020,Caja de 20 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",15.00,15.00,15.00,,mango kent_primera
+27/08/2020,Caja de 20 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",15.00,15.00,15.00,,mango kent_primera
+28/08/2020,Caja de 20 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.00,13.00,13.00,,mango kent_primera
+31/08/2020,Caja de 20 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.00,13.00,13.00,,mango kent_primera
+01/09/2020,Caja de 20 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.00,13.00,13.00,,mango kent_primera
+02/09/2020,Caja de 20 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.00,13.00,13.00,,mango kent_primera
+03/09/2020,Caja de 20 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.00,13.00,13.00,,mango kent_primera
+04/09/2020,Caja de 20 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.00,13.00,13.00,,mango kent_primera
+07/09/2020,Caja de 20 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.00,13.00,13.00,,mango kent_primera
+08/09/2020,Caja de 20 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.00,13.00,13.00,,mango kent_primera
+09/09/2020,Caja de 20 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.00,13.00,13.00,,mango kent_primera
+10/09/2020,Caja de 20 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.00,13.00,13.00,,mango kent_primera
+14/09/2020,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,Mango Keitt,mango kent_primera
+15/09/2020,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,Mango Keitt,mango kent_primera
+17/09/2020,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,Mango Keitt,mango kent_primera
+18/09/2020,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,Keitt,mango kent_primera
+21/09/2020,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,Mango Keitt,mango kent_primera
+22/09/2020,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,Mango Keitt,mango kent_primera
+23/09/2020,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,Mango Keitt,mango kent_primera
+24/09/2020,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,Mango Keitt,mango kent_primera
+25/09/2020,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,mango Keitt,mango kent_primera
+28/09/2020,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,Mango Keitt,mango kent_primera
+29/09/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,Mango Keitt,mango kent_primera
+30/09/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,Mango Keitt,mango kent_primera
+01/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,Mango Keitt,mango kent_primera
+02/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",12.00,12.00,12.00,Mango Keitt,mango kent_primera
+05/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",22.00,22.00,22.00,Mango Keitt,mango kent_primera
+06/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",22.00,22.00,22.00,Mango Keitt,mango kent_primera
+07/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",22.00,22.00,22.00,,mango kent_primera
+08/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",22.00,22.00,22.00,MANGO kEITT,mango kent_primera
+09/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",22.00,22.00,22.00,Mango Keitt,mango kent_primera
+12/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",24.00,24.00,24.00,Mango Keitt,mango kent_primera
+13/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",24.00,24.00,24.00,Mango Keitt,mango kent_primera
+14/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",24.00,24.00,24.00,Mango Keitt,mango kent_primera
+15/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",24.00,24.00,24.00,Mango keitt,mango kent_primera
+16/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",24.00,24.00,24.00,Mango Keitt,mango kent_primera
+19/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",34.00,34.00,34.00,Mango Keitt,mango kent_primera
+20/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",34.00,34.00,34.00,Mango Keitt,mango kent_primera
+21/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",34.00,34.00,34.00,Mango Keitt,mango kent_primera
+22/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",32.00,32.00,32.00,Mango Keitt,mango kent_primera
+23/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",32.00,32.00,32.00,MANGO KEITT,mango kent_primera
+26/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",32.00,32.00,32.00,mango Keitt,mango kent_primera
+27/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",32.00,32.00,32.00,Mango Keitt,mango kent_primera
+28/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",32.00,32.00,32.00,,mango kent_primera
+29/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",30.00,30.00,30.00,Mango Keitt,mango kent_primera
+30/10/2020,Caja de 25 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",30.00,30.00,30.00,Mango Keitt,mango kent_primera
+09/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",9.33,9.33,9.33,,mango kent_primera
+10/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",9.33,9.33,9.33,,mango kent_primera
+11/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",9.33,9.33,9.33,,mango kent_primera
+12/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",9.33,9.33,9.33,,mango kent_primera
+13/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",9.33,9.33,9.33,,mango kent_primera
+16/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",9.00,9.00,9.00,,mango kent_primera
+17/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",9.00,9.00,9.00,,mango kent_primera
+18/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",9.00,9.00,9.00,,mango kent_primera
+19/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",9.00,9.00,9.00,,mango kent_primera
+20/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",8.67,8.67,8.67,,mango kent_primera
+23/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",8.67,8.67,8.67,,mango kent_primera
+24/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",8.67,8.67,8.67,,mango kent_primera
+25/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",9.33,9.33,9.33,,mango kent_primera
+26/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",9.33,9.33,9.33,,mango kent_primera
+27/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",10.00,10.00,10.00,,mango kent_primera
+30/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",10.00,10.00,10.00,,mango kent_primera
+31/08/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",10.00,10.00,10.00,,mango kent_primera
+01/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",10.67,10.67,10.67,,mango kent_primera
+02/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",10.67,10.67,10.67,,mango kent_primera
+03/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+06/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+07/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+08/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+09/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+10/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+13/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+14/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+15/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+17/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+20/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+21/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+22/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+23/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+24/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+27/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+28/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+29/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+30/09/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+01/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+04/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+05/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+06/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+07/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+08/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",11.67,11.67,11.67,,mango kent_primera
+11/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",12.67,12.67,12.67,,mango kent_primera
+12/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",12.67,12.67,12.67,,mango kent_primera
+13/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",12.67,12.67,12.67,,mango kent_primera
+14/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",13.33,13.33,13.33,,mango kent_primera
+15/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",13.33,13.33,13.33,,mango kent_primera
+18/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",16.67,16.67,16.67,,mango kent_primera
+19/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",17.33,17.33,17.33,,mango kent_primera
+20/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",18.67,18.67,18.67,,mango kent_primera
+21/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",20.00,20.00,20.00,,mango kent_primera
+22/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",20.00,20.00,20.00,,mango kent_primera
+25/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",23.33,23.33,23.33,,mango kent_primera
+26/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",23.33,23.33,23.33,,mango kent_primera
+27/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",25.00,25.00,25.00,,mango kent_primera
+28/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",25.00,25.00,25.00,,mango kent_primera
+29/10/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",28.33,28.33,28.33,,mango kent_primera
+01/11/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",28.33,28.33,28.33,,mango kent_primera
+03/11/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",28.33,28.33,28.33,,mango kent_primera
+04/11/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",28.33,28.33,28.33,,mango kent_primera
+05/11/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",28.33,28.33,28.33,,mango kent_primera
+08/11/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",30.00,30.00,30.00,,mango kent_primera
+09/11/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",30.00,30.00,30.00,,mango kent_primera
+10/11/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",30.00,30.00,30.00,,mango kent_primera
+11/11/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",33.33,33.33,33.33,,mango kent_primera
+12/11/2021,Caja de 30 kg.,Sinaloa,"Baja California : Central de Abasto INDIA, Tijuana",33.33,33.33,33.33,,mango kent_primera
+19/07/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,9.00,9.33,9.33,,mango kent_primera
+20/07/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,9.00,9.33,9.00,,mango kent_primera
+21/07/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,9.33,,mango kent_primera
+22/07/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,9.33,,mango kent_primera
+23/07/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,8.33,,mango kent_primera
+26/07/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,9.33,,mango kent_primera
+27/07/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,8.33,,mango kent_primera
+28/07/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,9.33,,mango kent_primera
+29/07/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,9.33,,mango kent_primera
+30/07/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,8.33,,mango kent_primera
+02/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,8.33,,mango kent_primera
+03/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,8.33,,mango kent_primera
+04/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,9.33,,mango kent_primera
+05/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,9.33,,mango kent_primera
+06/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,9.00,,mango kent_primera
+09/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,9.00,,mango kent_primera
+10/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,9.33,9.33,,mango kent_primera
+11/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,7.33,9.00,8.33,,mango kent_primera
+12/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,7.33,9.00,8.33,,mango kent_primera
+13/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,7.33,9.00,8.33,,mango kent_primera
+16/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,7.33,9.00,8.33,,mango kent_primera
+17/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,7.33,9.00,8.33,,mango kent_primera
+18/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,9.33,10.00,10.00,,mango kent_primera
+19/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,9.33,10.00,10.00,,mango kent_primera
+20/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,7.67,8.33,8.33,,mango kent_primera
+23/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,7.67,8.33,8.33,,mango kent_primera
+24/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,7.67,8.33,8.33,,mango kent_primera
+25/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,10.00,9.33,,mango kent_primera
+26/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,8.33,10.00,10.00,,mango kent_primera
+27/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,7.33,9.33,8.33,,mango kent_primera
+30/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,7.33,9.33,8.33,,mango kent_primera
+31/08/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,7.33,9.33,8.33,,mango kent_primera
+01/09/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,9.33,10.00,10.00,,mango kent_primera
+02/09/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,9.33,10.00,10.00,,mango kent_primera
+03/09/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,9.33,10.00,10.00,,mango kent_primera
+06/09/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,9.33,10.00,9.33,,mango kent_primera
+07/09/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,9.33,10.00,10.00,,mango kent_primera
+08/09/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,10.00,11.67,11.67,,mango kent_primera
+09/09/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,10.00,11.67,11.67,,mango kent_primera
+10/09/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,10.00,11.67,11.67,,mango kent_primera
+13/09/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,10.00,11.67,11.67,,mango kent_primera
+14/09/2021,Caja de 30 kg.,Sinaloa,México: Central de Abasto de Toluca,10.00,11.67,11.67,,mango kent_primera
+04/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.00,5.20,5.00,,mango kent_primera
+05/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.00,5.20,5.00,,mango kent_primera
+06/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.00,5.20,5.00,,mango kent_primera
+09/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.00,5.20,5.00,,mango kent_primera
+10/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.00,5.20,5.00,,mango kent_primera
+11/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.00,5.20,5.00,,mango kent_primera
+12/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.00,5.20,5.00,,mango kent_primera
+13/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+16/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+17/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+18/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+19/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+20/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+23/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+24/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+25/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+26/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+27/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+30/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+31/08/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+01/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,5.60,5.80,5.60,,mango kent_primera
+02/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,6.00,6.80,6.00,,mango kent_primera
+03/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,6.00,6.80,6.00,,mango kent_primera
+06/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,6.00,6.80,6.00,,mango kent_primera
+07/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,6.00,6.80,6.00,,mango kent_primera
+08/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,6.00,6.80,6.00,,mango kent_primera
+09/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,6.00,6.80,6.00,,mango kent_primera
+10/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,6.00,6.80,6.00,,mango kent_primera
+13/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,6.00,6.80,6.00,,mango kent_primera
+14/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,6.80,8.00,6.80,,mango kent_primera
+15/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,6.80,8.00,6.80,,mango kent_primera
+17/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,6.80,8.00,6.80,,mango kent_primera
+20/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,6.80,8.00,6.80,,mango kent_primera
+21/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,6.80,8.00,6.80,,mango kent_primera
+22/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,7.60,9.60,7.60,,mango kent_primera
+23/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,7.60,9.60,7.60,,mango kent_primera
+24/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,7.60,10.00,7.60,,mango kent_primera
+27/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,7.60,10.00,7.60,,mango kent_primera
+28/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,7.60,9.60,7.60,,mango kent_primera
+29/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,7.60,9.60,7.60,,mango kent_primera
+30/09/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,7.60,9.60,7.60,,mango kent_primera
+01/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,7.60,9.60,7.60,,mango kent_primera
+04/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,7.60,9.60,7.60,,mango kent_primera
+05/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,7.60,9.60,7.60,,mango kent_primera
+06/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,8.80,12.00,8.80,,mango kent_primera
+07/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,8.80,12.00,8.80,,mango kent_primera
+08/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,8.80,12.00,8.80,,mango kent_primera
+11/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,8.80,12.00,8.80,,mango kent_primera
+12/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+13/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+14/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+15/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+18/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+19/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+20/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+21/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+22/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+25/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+26/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+27/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+28/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+29/10/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+01/11/2021,Caja de 25 kg.,Tamaulipas,Veracruz: Mercado Malibrán,10.00,14.00,10.00,,mango kent_primera
+29/06/2021,Caja de 30 kg.,Chiapas,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,mango kent_primera
+30/06/2021,Caja de 30 kg.,Chiapas,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,mango kent_primera
+01/07/2021,Caja de 30 kg.,Chiapas,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,mango kent_primera
+02/07/2021,Caja de 30 kg.,Chiapas,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,mango kent_primera
+05/07/2021,Caja de 30 kg.,Chiapas,Yucatán: Centro Mayorista Oxkutzcab,4.00,4.00,4.00,,mango kent_primera
+28/09/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",20.00,20.00,20.00,,mango kent_primera
+29/09/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",20.00,20.00,20.00,,mango kent_primera
+30/09/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",20.00,20.00,20.00,,mango kent_primera
+03/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",20.00,20.00,20.00,,mango kent_primera
+04/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",20.00,20.00,20.00,,mango kent_primera
+05/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",17.24,17.24,17.24,,mango kent_primera
+06/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",17.24,17.24,17.24,,mango kent_primera
+07/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",17.24,17.24,17.24,,mango kent_primera
+10/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.21,16.21,16.21,,mango kent_primera
+11/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.21,16.21,16.21,,mango kent_primera
+12/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.21,16.21,16.21,,mango kent_primera
+13/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.21,16.21,16.21,,mango kent_primera
+14/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",15.52,15.52,15.52,,mango kent_primera
+17/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",15.52,15.52,15.52,,mango kent_primera
+18/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.10,13.10,13.10,,mango kent_primera
+19/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.10,13.10,13.10,,mango kent_primera
+20/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",10.34,10.34,10.34,,mango kent_primera
+21/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",10.34,10.34,10.34,,mango kent_primera
+24/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.66,9.66,9.66,,mango kent_primera
+25/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.66,9.66,9.66,,mango kent_primera
+26/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.66,9.66,9.66,,mango kent_primera
+27/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.31,9.31,9.31,,mango kent_primera
+28/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.31,9.31,9.31,,mango kent_primera
+31/10/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",10.00,10.00,10.00,,mango kent_primera
+01/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",10.00,10.00,10.00,,mango kent_primera
+03/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.83,9.83,9.83,,mango kent_primera
+04/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.83,9.83,9.83,,mango kent_primera
+07/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.66,9.66,9.66,,mango kent_primera
+08/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.66,9.66,9.66,,mango kent_primera
+09/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.48,9.48,9.48,,mango kent_primera
+10/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.48,9.48,9.48,,mango kent_primera
+11/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.48,9.48,9.48,,mango kent_primera
+14/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",10.34,10.34,10.34,,mango kent_primera
+15/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",10.34,10.34,10.34,,mango kent_primera
+16/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",10.34,10.34,10.34,,mango kent_primera
+17/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.83,9.83,9.83,,mango kent_primera
+18/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.83,9.83,9.83,,mango kent_primera
+22/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.48,9.48,9.48,,mango kent_primera
+23/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.48,9.48,9.48,,mango kent_primera
+24/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.31,9.31,9.31,,mango kent_primera
+25/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.31,9.31,9.31,,mango kent_primera
+28/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.31,9.31,9.31,,mango kent_primera
+29/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.31,9.31,9.31,,mango kent_primera
+30/11/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.31,9.31,9.31,,mango kent_primera
+01/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",9.31,9.31,9.31,,mango kent_primera
+02/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",10.34,10.34,10.34,,mango kent_primera
+05/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",10.34,10.34,10.34,,mango kent_primera
+06/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",10.34,10.34,10.34,,mango kent_primera
+07/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",10.34,10.34,10.34,,mango kent_primera
+08/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",11.72,11.72,11.72,,mango kent_primera
+09/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",11.72,11.72,11.72,,mango kent_primera
+12/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.07,12.07,12.07,,mango kent_primera
+13/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.07,12.07,12.07,,mango kent_primera
+14/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.07,12.07,12.07,,mango kent_primera
+15/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.76,12.76,12.76,,mango kent_primera
+16/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.76,12.76,12.76,,mango kent_primera
+19/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.79,13.79,13.79,,mango kent_primera
+20/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",13.79,13.79,13.79,,mango kent_primera
+21/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.07,12.07,12.07,,mango kent_primera
+22/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.07,12.07,12.07,,mango kent_primera
+23/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.07,12.07,12.07,,mango kent_primera
+26/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.07,12.07,12.07,,mango kent_primera
+27/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.07,12.07,12.07,,mango kent_primera
+28/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.07,12.07,12.07,,mango kent_primera
+29/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.07,12.07,12.07,,mango kent_primera
+30/12/2022,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.07,12.07,12.07,,mango kent_primera
+26/09/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.00,9.67,9.00,,mango kent_primera
+27/09/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.00,9.67,9.00,,mango kent_primera
+28/09/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.00,9.67,9.00,,mango kent_primera
+29/09/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.00,9.67,9.00,,mango kent_primera
+30/09/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.00,9.67,9.00,,mango kent_primera
+03/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.00,9.67,9.00,,mango kent_primera
+04/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.00,9.67,9.00,,mango kent_primera
+05/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.00,9.67,9.00,,mango kent_primera
+06/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.00,9.67,9.00,,mango kent_primera
+07/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.00,9.67,9.00,,mango kent_primera
+10/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.00,9.67,9.00,,mango kent_primera
+11/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.67,10.00,9.67,,mango kent_primera
+12/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.67,10.00,9.67,,mango kent_primera
+13/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.67,10.00,9.67,,mango kent_primera
+14/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.67,10.00,9.67,,mango kent_primera
+17/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.67,10.00,9.67,,mango kent_primera
+18/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.67,10.00,9.67,,mango kent_primera
+19/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.67,10.00,9.67,,mango kent_primera
+20/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.67,10.00,9.67,,mango kent_primera
+21/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.67,10.00,9.67,,mango kent_primera
+24/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.67,10.00,9.67,,mango kent_primera
+25/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.67,10.00,9.67,,mango kent_primera
+26/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.67,10.00,9.67,,mango kent_primera
+27/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,9.67,10.00,9.67,,mango kent_primera
+28/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,16.00,15.00,,mango kent_primera
+31/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,16.00,15.00,,mango kent_primera
+01/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,16.00,15.00,,mango kent_primera
+03/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,16.00,15.00,,mango kent_primera
+04/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,16.00,15.00,,mango kent_primera
+07/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,16.00,15.00,,mango kent_primera
+08/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,16.00,15.00,,mango kent_primera
+09/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,16.00,15.00,,mango kent_primera
+10/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,16.00,15.00,,mango kent_primera
+11/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,16.00,15.00,,mango kent_primera
+14/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,16.00,15.00,,mango kent_primera
+15/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,16.00,15.00,,mango kent_primera
+16/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,13.33,17.00,13.33,,mango kent_primera
+17/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,13.33,17.00,13.33,,mango kent_primera
+18/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,13.33,17.00,13.33,,mango kent_primera
+22/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,13.33,17.00,13.33,,mango kent_primera
+26/09/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+27/09/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+28/09/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+29/09/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+30/09/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+03/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+04/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+05/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+06/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+07/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+10/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+11/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.83,9.83,9.83,,mango kent_primera
+12/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.83,9.83,9.83,,mango kent_primera
+13/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.83,9.83,9.83,,mango kent_primera
+14/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.83,9.83,9.83,,mango kent_primera
+17/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.83,9.83,9.83,,mango kent_primera
+18/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.83,9.83,9.83,,mango kent_primera
+19/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.83,9.83,9.83,,mango kent_primera
+20/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.83,9.83,9.83,,mango kent_primera
+21/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.83,9.83,9.83,,mango kent_primera
+24/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.83,9.83,9.83,,mango kent_primera
+25/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.83,9.83,9.83,,mango kent_primera
+26/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.83,9.83,9.83,,mango kent_primera
+27/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.83,9.83,9.83,,mango kent_primera
+28/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+31/10/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+01/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+03/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+04/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+07/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+08/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+09/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+10/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+11/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+14/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+15/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+16/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+17/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+18/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+22/11/2022,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,15.50,15.50,15.50,,mango kent_primera
+12/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.43,10.71,,mango kent_primera
+13/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.43,10.71,,mango kent_primera
+14/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.43,10.71,,mango kent_primera
+15/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.43,10.71,,mango kent_primera
+19/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+20/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+21/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+22/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+23/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+26/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+27/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+28/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+29/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+30/09/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+03/10/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+04/10/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+05/10/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+06/10/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+07/10/2022,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+17/08/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,9.38,10.94,10.94,,mango kent_primera
+18/08/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,9.38,10.94,10.94,,mango kent_primera
+19/08/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,10.00,10.94,10.00,,mango kent_primera
+22/08/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,10.00,10.94,10.00,,mango kent_primera
+23/08/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,9.38,10.00,9.38,,mango kent_primera
+24/08/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,9.38,10.00,9.38,,mango kent_primera
+25/08/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,9.38,8.75,,mango kent_primera
+26/08/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,9.38,9.38,,mango kent_primera
+29/08/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,9.38,8.75,,mango kent_primera
+30/08/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,9.38,10.00,10.00,,mango kent_primera
+31/08/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,9.38,10.00,9.38,,mango kent_primera
+01/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,10.00,9.38,,mango kent_primera
+02/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,10.00,9.38,,mango kent_primera
+05/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,10.94,9.38,,mango kent_primera
+06/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,10.94,9.38,,mango kent_primera
+07/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,10.94,9.38,,mango kent_primera
+08/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,10.94,9.38,,mango kent_primera
+09/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,10.94,9.38,,mango kent_primera
+12/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,10.00,9.38,,mango kent_primera
+13/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,10.00,9.38,,mango kent_primera
+14/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,10.00,9.38,,mango kent_primera
+15/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,10.00,9.38,,mango kent_primera
+19/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,10.00,9.38,,mango kent_primera
+20/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,9.38,9.38,,mango kent_primera
+21/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,9.38,9.38,,mango kent_primera
+22/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,9.38,9.38,,mango kent_primera
+23/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,9.38,9.38,,mango kent_primera
+26/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,9.38,9.38,,mango kent_primera
+27/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,9.38,9.38,,mango kent_primera
+28/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,8.75,9.38,9.38,,mango kent_primera
+29/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,7.81,9.38,8.75,,mango kent_primera
+30/09/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,7.81,9.38,8.75,,mango kent_primera
+03/10/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,7.81,8.75,8.75,,mango kent_primera
+04/10/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,9.38,10.94,10.94,,mango kent_primera
+05/10/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,9.38,10.94,10.94,,mango kent_primera
+06/10/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,10.94,12.50,12.50,,mango kent_primera
+07/10/2022,Caja de 32 kg.,Sinaloa,México: Central de Abasto de Toluca,10.94,12.50,12.50,,mango kent_primera
+14/09/2022,Caja de 25 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,14.00,14.00,14.00,,mango kent_primera
+15/09/2022,Caja de 25 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,14.00,14.00,14.00,,mango kent_primera
+19/09/2022,Caja de 25 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,16.00,16.00,16.00,,mango kent_primera
+20/09/2022,Caja de 25 kg.,Distrito Federal,Yucatán: Central de Abasto de Mérida,16.00,16.00,16.00,,mango kent_primera
+05/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,25.00,25.00,25.00,,mango kent_primera
+06/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,25.00,25.00,25.00,,mango kent_primera
+07/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,25.00,25.00,25.00,,mango kent_primera
+08/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,25.00,25.00,25.00,,mango kent_primera
+09/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,16.67,16.67,16.67,,mango kent_primera
+12/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,16.67,16.67,16.67,,mango kent_primera
+13/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,16.67,16.67,16.67,,mango kent_primera
+14/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,16.67,16.67,16.67,,mango kent_primera
+15/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,16.67,16.67,16.67,,mango kent_primera
+19/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,23.33,23.33,23.33,,mango kent_primera
+20/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,23.33,23.33,23.33,,mango kent_primera
+21/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,28.33,28.33,28.33,,mango kent_primera
+22/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,28.33,28.33,28.33,,mango kent_primera
+23/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,28.33,28.33,28.33,,mango kent_primera
+26/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,28.33,28.33,28.33,,mango kent_primera
+27/09/2022,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,28.33,28.33,28.33,,mango kent_primera
+02/01/2023,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",12.07,12.07,12.07,,mango kent_primera
+03/01/2023,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",10.34,10.34,10.34,,mango kent_primera
+04/01/2023,Caja de 29 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",10.34,10.34,10.34,,mango kent_primera
+15/09/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",14.00,14.00,14.00,,mango kent_primera
+18/09/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",14.00,14.00,14.00,,mango kent_primera
+19/09/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",14.00,14.00,14.00,,mango kent_primera
+20/09/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",15.20,15.20,15.20,,mango kent_primera
+21/09/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",15.20,15.20,15.20,,mango kent_primera
+22/09/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",15.20,15.20,15.20,,mango kent_primera
+25/09/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.80,16.80,16.80,,mango kent_primera
+26/09/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.80,16.80,16.80,,mango kent_primera
+27/09/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.80,16.80,16.80,,mango kent_primera
+28/09/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",18.00,18.00,18.00,,mango kent_primera
+29/09/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",18.00,18.00,18.00,,mango kent_primera
+02/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",17.20,17.20,17.20,,mango kent_primera
+03/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",17.20,17.20,17.20,,mango kent_primera
+04/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",17.20,17.20,17.20,,mango kent_primera
+05/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.00,16.00,16.00,,mango kent_primera
+06/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.00,16.00,16.00,,mango kent_primera
+09/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",18.00,18.00,18.00,,mango kent_primera
+10/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",18.00,18.00,18.00,,mango kent_primera
+11/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",18.00,18.00,18.00,,mango kent_primera
+12/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",17.00,17.00,17.00,,mango kent_primera
+13/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",17.00,17.00,17.00,,mango kent_primera
+16/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.00,16.00,16.00,,mango kent_primera
+17/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.00,16.00,16.00,,mango kent_primera
+18/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.00,16.00,16.00,,mango kent_primera
+19/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.00,16.00,16.00,,mango kent_primera
+20/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",16.00,16.00,16.00,,mango kent_primera
+23/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",15.40,15.40,15.40,,mango kent_primera
+24/10/2023,Caja de 25 kg.,Baja California Sur,"Baja California : Central de Abasto INDIA, Tijuana",15.40,15.40,15.40,,mango kent_primera
+29/08/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,7.50,10.00,7.50,,mango kent_primera
+30/08/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,7.50,10.00,7.50,,mango kent_primera
+31/08/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,7.50,10.00,7.50,,mango kent_primera
+01/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+04/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+05/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+06/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+07/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+08/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+11/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+12/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+13/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+14/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+15/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+18/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+19/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+20/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+21/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+22/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+25/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,10.00,12.50,10.00,,mango kent_primera
+26/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,20.00,15.00,,mango kent_primera
+27/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,20.00,15.00,,mango kent_primera
+28/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,20.00,15.00,,mango kent_primera
+29/09/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,20.00,15.00,,mango kent_primera
+02/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,20.00,15.00,,mango kent_primera
+03/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,20.00,15.00,,mango kent_primera
+04/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,20.00,15.00,,mango kent_primera
+05/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,14.50,20.00,14.50,,mango kent_primera
+06/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,14.50,20.00,14.50,,mango kent_primera
+09/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,14.50,20.00,14.50,,mango kent_primera
+10/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,14.50,20.00,14.50,,mango kent_primera
+11/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,14.50,20.00,14.50,,mango kent_primera
+12/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,14.50,20.00,14.50,,mango kent_primera
+13/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,14.50,20.00,14.50,,mango kent_primera
+16/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,20.00,15.00,,mango kent_primera
+17/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,20.00,15.00,,mango kent_primera
+18/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,20.00,15.00,,mango kent_primera
+19/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,15.00,20.00,15.00,,mango kent_primera
+20/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,17.00,19.50,17.00,,mango kent_primera
+23/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,17.00,19.50,17.00,,mango kent_primera
+24/10/2023,Caja de 20 kg.,Nayarit,Jalisco: Mercado de Abasto de Guadalajara,17.00,18.50,17.00,,mango kent_primera
+12/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,10.00,10.00,10.00,,mango kent_primera
+13/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,10.00,10.00,10.00,,mango kent_primera
+14/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,10.00,10.00,10.00,,mango kent_primera
+15/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,10.00,10.00,10.00,,mango kent_primera
+18/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.67,9.67,9.67,,mango kent_primera
+19/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.67,9.67,9.67,,mango kent_primera
+20/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.67,9.67,9.67,,mango kent_primera
+21/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.67,9.67,9.67,,mango kent_primera
+22/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.67,9.67,9.67,,mango kent_primera
+25/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.67,9.67,9.67,,mango kent_primera
+26/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.67,9.67,9.67,,mango kent_primera
+27/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.67,9.67,9.67,,mango kent_primera
+28/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.67,9.67,9.67,,mango kent_primera
+29/09/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.67,9.67,9.67,,mango kent_primera
+02/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.67,9.67,9.67,,mango kent_primera
+03/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.67,9.67,9.67,,mango kent_primera
+04/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+05/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+06/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.33,9.33,9.33,,mango kent_primera
+09/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,8.67,8.67,8.67,,mango kent_primera
+10/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,8.67,8.67,8.67,,mango kent_primera
+11/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,8.67,8.67,8.67,,mango kent_primera
+12/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.00,9.00,9.00,,mango kent_primera
+13/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,9.00,9.00,9.00,,mango kent_primera
+16/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,8.67,8.67,8.67,,mango kent_primera
+17/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,8.67,8.67,8.67,,mango kent_primera
+18/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,8.67,8.67,8.67,,mango kent_primera
+19/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,8.67,8.67,8.67,,mango kent_primera
+20/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,8.67,8.67,8.67,,mango kent_primera
+23/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,8.67,8.67,8.67,,mango kent_primera
+24/10/2023,Caja de 30 kg.,Nayarit,Jalisco: Mercado Felipe Ángeles de Guadalajara,8.67,8.67,8.67,,mango kent_primera
+05/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,10.71,9.29,,mango kent_primera
+06/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,10.71,9.29,,mango kent_primera
+07/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,10.71,9.29,,mango kent_primera
+08/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,10.71,9.29,,mango kent_primera
+09/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,10.71,9.29,,mango kent_primera
+12/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,10.00,10.00,,mango kent_primera
+13/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,10.00,10.00,,mango kent_primera
+14/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,10.00,10.00,,mango kent_primera
+15/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,10.00,10.00,,mango kent_primera
+16/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,10.00,10.00,,mango kent_primera
+19/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.21,8.93,8.93,,mango kent_primera
+20/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.21,8.93,8.93,,mango kent_primera
+21/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.21,8.93,8.93,,mango kent_primera
+22/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.21,8.93,8.93,,mango kent_primera
+23/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.21,8.93,8.93,,mango kent_primera
+26/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,10.71,,mango kent_primera
+27/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,10.71,,mango kent_primera
+28/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,10.71,,mango kent_primera
+29/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,10.71,,mango kent_primera
+30/06/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,10.71,,mango kent_primera
+03/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+04/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+05/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+06/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+07/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,12.50,12.50,,mango kent_primera
+10/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,13.57,12.50,,mango kent_primera
+11/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,13.57,12.50,,mango kent_primera
+12/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,13.57,12.50,,mango kent_primera
+13/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,13.57,12.50,,mango kent_primera
+14/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,13.57,12.50,,mango kent_primera
+17/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.79,10.71,,mango kent_primera
+18/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.79,10.71,,mango kent_primera
+19/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.79,10.71,,mango kent_primera
+20/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.79,10.71,,mango kent_primera
+21/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.79,10.71,,mango kent_primera
+24/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.79,10.71,,mango kent_primera
+25/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.79,10.71,,mango kent_primera
+26/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.79,10.71,,mango kent_primera
+27/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.79,10.71,,mango kent_primera
+28/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,8.93,11.79,10.71,,mango kent_primera
+31/07/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.00,12.50,11.79,,mango kent_primera
+01/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.00,12.50,11.79,,mango kent_primera
+02/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.00,12.50,11.79,,mango kent_primera
+03/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.00,12.50,11.79,,mango kent_primera
+04/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.00,12.50,11.79,,mango kent_primera
+07/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.00,12.50,11.79,,mango kent_primera
+08/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.00,12.50,11.79,,mango kent_primera
+09/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.00,12.50,11.79,,mango kent_primera
+10/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.00,12.50,11.79,,mango kent_primera
+11/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.00,12.50,11.79,,mango kent_primera
+14/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,11.43,11.43,,mango kent_primera
+15/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,11.43,11.43,,mango kent_primera
+16/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,11.43,11.43,,mango kent_primera
+17/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,11.43,11.43,,mango kent_primera
+18/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,10.71,11.43,11.43,,mango kent_primera
+21/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,14.29,12.50,,mango kent_primera
+22/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,14.29,12.50,,mango kent_primera
+23/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,14.29,12.50,,mango kent_primera
+24/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,14.29,12.50,,mango kent_primera
+25/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,14.29,12.50,,mango kent_primera
+28/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,14.29,14.29,,mango kent_primera
+29/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,14.29,14.29,,mango kent_primera
+30/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,14.29,14.29,,mango kent_primera
+31/08/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,14.29,14.29,,mango kent_primera
+01/09/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,14.29,14.29,,mango kent_primera
+04/09/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,12.86,12.50,,mango kent_primera
+05/09/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,12.86,12.50,,mango kent_primera
+06/09/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,12.86,12.50,,mango kent_primera
+07/09/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,12.86,12.50,,mango kent_primera
+08/09/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,12.86,12.50,,mango kent_primera
+11/09/2023,Caja de 28 kg.,Distrito Federal,México: Central de Abasto de Ecatepec,12.50,12.86,12.50,,mango kent_primera
+24/07/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,10.00,10.00,,mango kent_primera
+25/07/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,10.00,10.00,,mango kent_primera
+26/07/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,10.00,10.00,,mango kent_primera
+27/07/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,10.00,10.00,,mango kent_primera
+28/07/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,10.00,10.00,,mango kent_primera
+31/07/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,10.00,8.33,,mango kent_primera
+01/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,7.33,10.00,8.33,,mango kent_primera
+02/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,7.33,10.00,8.33,,mango kent_primera
+03/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,7.33,10.00,8.33,,mango kent_primera
+04/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,7.33,10.00,8.33,,mango kent_primera
+07/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,7.67,10.00,8.33,,mango kent_primera
+08/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,7.67,10.00,8.33,,mango kent_primera
+09/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,7.67,10.00,8.33,,mango kent_primera
+10/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,7.67,10.00,8.33,,mango kent_primera
+11/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,7.67,10.00,8.33,,mango kent_primera
+14/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,7.67,10.00,8.33,,mango kent_primera
+15/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,7.67,10.00,8.33,,mango kent_primera
+16/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,7.67,10.00,8.33,,mango kent_primera
+17/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,7.67,10.00,8.33,,mango kent_primera
+18/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,11.67,13.33,11.67,,mango kent_primera
+21/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,11.67,10.00,,mango kent_primera
+22/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,11.67,10.00,,mango kent_primera
+23/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,11.67,10.00,,mango kent_primera
+24/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,11.67,11.67,,mango kent_primera
+25/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,11.67,11.67,,mango kent_primera
+28/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,11.67,11.67,,mango kent_primera
+29/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,10.00,10.00,,mango kent_primera
+30/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,10.00,10.00,,mango kent_primera
+31/08/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,8.33,10.00,10.00,,mango kent_primera
+01/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,11.00,,mango kent_primera
+04/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,11.00,,mango kent_primera
+05/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,11.00,,mango kent_primera
+06/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,11.00,,mango kent_primera
+07/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,11.00,,mango kent_primera
+08/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,11.00,,mango kent_primera
+11/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,11.00,,mango kent_primera
+12/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,11.00,,mango kent_primera
+13/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,11.00,,mango kent_primera
+14/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,10.00,,mango kent_primera
+15/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,10.00,,mango kent_primera
+18/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,10.00,,mango kent_primera
+19/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,10.00,,mango kent_primera
+22/09/2023,Caja de 30 kg.,Nayarit,México: Central de Abasto de Toluca,10.00,11.00,10.00,,mango kent_primera
+25/01/2023,Caja de 35 kg.,Distrito Federal,Yucatán: Centro Mayorista Oxkutzcab,22.86,22.86,22.86,,mango kent_primera
+26/01/2023,Caja de 35 kg.,Distrito Federal,Yucatán: Centro Mayorista Oxkutzcab,22.86,22.86,22.86,,mango kent_primera
+27/01/2023,Caja de 35 kg.,Distrito Federal,Yucatán: Centro Mayorista Oxkutzcab,22.86,22.86,22.86,,mango kent_primera
+30/01/2023,Caja de 35 kg.,Distrito Federal,Yucatán: Centro Mayorista Oxkutzcab,22.86,22.86,22.86,,mango kent_primera
+31/01/2023,Caja de 35 kg.,Distrito Federal,Yucatán: Centro Mayorista Oxkutzcab,22.86,22.86,22.86,,mango kent_primera
+01/02/2023,Caja de 35 kg.,Distrito Federal,Yucatán: Centro Mayorista Oxkutzcab,22.86,22.86,22.86,,mango kent_primera
+02/02/2023,Caja de 35 kg.,Distrito Federal,Yucatán: Centro Mayorista Oxkutzcab,22.86,22.86,22.86,,mango kent_primera
+02/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,mango kent_primera
+03/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,mango kent_primera
+04/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,mango kent_primera
+07/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,mango kent_primera
+08/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,mango kent_primera
+09/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,mango kent_primera
+10/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,mango kent_primera
+11/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,15.00,15.00,15.00,,mango kent_primera
+15/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,mango kent_primera
+16/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,mango kent_primera
+17/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,mango kent_primera
+18/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,mango kent_primera
+28/08/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+28/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,mango kent_primera
+29/08/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+29/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,mango kent_primera
+30/08/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+30/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,mango kent_primera
+31/08/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+31/08/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,mango kent_primera
+01/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+01/09/2023,Caja de 20 kg.,Yucatán,Yucatán: Centro Mayorista Oxkutzcab,22.50,22.50,22.50,,mango kent_primera
+04/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+05/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+06/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+07/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+08/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+18/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+19/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+20/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+21/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+22/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+25/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+26/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+27/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+28/09/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,20.00,20.00,20.00,,mango kent_primera
+02/10/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,23.33,23.33,23.33,,mango kent_primera
+03/10/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,23.33,23.33,23.33,,mango kent_primera
+04/10/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,23.33,23.33,23.33,,mango kent_primera
+06/10/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,23.33,23.33,23.33,,mango kent_primera
+09/10/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,23.33,23.33,23.33,,mango kent_primera
+10/10/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,23.33,23.33,23.33,,mango kent_primera
+11/10/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,23.33,23.33,23.33,,mango kent_primera
+12/10/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,23.33,23.33,23.33,,mango kent_primera
+13/10/2023,Caja de 30 kg.,Nayarit,Yucatán: Centro Mayorista Oxkutzcab,23.33,23.33,23.33,,mango kent_primera
