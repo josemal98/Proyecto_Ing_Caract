@@ -107,7 +107,7 @@ A continuación se muestra una descripción del DataFrame *SIAP* que resultó de
 
 ##### Columnas
 
-A continuación, se muestra una lista de las columnas en el DataFrame *tidy*, junto con una breve descripción de cada una:
+A continuación, se muestra una lista de las columnas en el DataFrame *tidy*, además de una breve descripción:
 
 | **Columna**          | **Descripción**                                    | **Unidad** |
 |----------------------|----------------------------------------------------|------------|
@@ -124,7 +124,7 @@ A continuación, se muestra una lista de las columnas en el DataFrame *tidy*, ju
 
 
 
-Aquí hay una muestra de cinco filas seleccionadas aleatoriamente del DataFrame para que se tenga una idea de cómo se ven los datos:
+Aquí hay una muestra de cinco filas seleccionadas aleatoriamente del DataFrame para darnos una idea de cómo se ven los datos:
 
 | Index | Entidad   | Municipio       | Superficie Sembrada | Superficie Cosechada | Superficie Siniestrada | Produccion | Rendimiento | Anio | Mes       | Cultivo                |
 |-------|-----------|-----------------|----------------------|------------------------|-------------------------|------------|------------|------|-----------|------------------------|
