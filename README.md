@@ -12,12 +12,12 @@ Este proyecto es parte del curso "Ingeniería de Características" de la Maestr�
 ## Integrantes del equipo
 
 - José Carlos Barreras Maldonado
-- Luis Ernesto Ortíz Villalón
+- Luis Ernesto Ortiz Villalón
 - Vesna Camile Pivac Alcaraz
 
 ## Descripción del proyecto
 
-El proyecto se divide en tres partes fundamentales:
+El proyecto se divide en tres partes:
 
 **1. Obtención de los datos**
 
@@ -197,4 +197,5 @@ Aquí hay una muestra de cinco filas seleccionadas aleatoriamente del DataFrame 
 | 136301 | 11/05/2018 | Caja de 10 kg.         | Importación               | Durango: Central de Abasto "Francisco Villa"   | 62.0      | 62.00      | 62.00         | Origen U.S.A.    | ciruela pasa_primera |
 | 124224 | 24/05/2021 | Manojo                | Baja California           | Baja California Sur: Unión de Comerciantes de ...  | 3.0       | 7.00       | 5.00         | nan             | cilantro_primera   |
 | 15799   | 09/11/2018 | Caja de 20 kg.         | Aguascalientes            | Nayarit: Mercado de abasto 'Adolfo López Mateo...  | 32.0      | 33.25      | 32.25         | nan             | aguacate pagua_primera |
+
 
